@@ -2,6 +2,9 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-04 — College fix
+- Arafan Diané (Houston), Massamba Diop (Gonzaga), Miles Sadler (West Virginia), Obinna Ekezie Jr. (Louisville), Zvonimir Ivisic (Illinois) and Johann Grünloh (Virginia) had `international: true`, so BBGM showed "College: None". That flag is only for pro-club players, so it is now false for all six and their colleges show.
+
 ## 2026-11-04 — Daily update
 The class now has 69 active prospects (77 entries, 8 withdrawn). Ranks are the median of current boards: [ESPN](https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks), [CBS](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17), [No Ceilings](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v1) (Oct 14), B/R [big board](https://bleacherreport.com/articles/25474454-2027-nba-draft-big-board-top-100-player-rankings) and [mock](https://bleacherreport.com/articles/25461538-our-2027-nba-mock-draft-already-stacked-pro-ready-talent), and [FanSided](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-for-the-new-cycle), plus the previous (Tankathon) order for existing players. Tankathon's 2027 pages returned 404 today.
 
