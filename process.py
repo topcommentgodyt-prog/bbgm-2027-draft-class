@@ -5,7 +5,8 @@ For each prospect with an `image` in headshots/raw and no processed copy yet in
 headshots/final (or all of them with --force):
   - transparent images: trim empty margins
   - plain or busy backgrounds: cut the person out with rembg (local, free)
-  - waist-up shots: crop to head-and-shoulders
+  - waist-up shots: crop to head-and-shoulders (a prospect with "crop": "square"
+    is a tight portrait whose shoulders fill the frame; it is only capped at square)
   - resize to max 300px and save as WebP
 """
 import json, os, sys
@@ -45,7 +46,9 @@ for pr in json.load(open(os.path.join(HERE, "prospects.json"))):
     if box:
         l, t, r, b = box
         img = img.crop((l, max(0, t - 6), r, img.height))
-        if img.height > 0.8 * img.width:  # waist-up: keep head and shoulders
+        if pr.get("crop") == "square":  # tight portrait, already head-and-shoulders: just cap at square
+            img = img.crop((0, 0, img.width, min(img.height, img.width)))
+        elif img.height > 0.8 * img.width:  # waist-up: keep head and shoulders
             img = img.crop((0, 0, img.width, int(img.width * 0.78)))
     img.thumbnail((300, 300), Image.LANCZOS)
     img.save(out, "WEBP", quality=82, method=6)
