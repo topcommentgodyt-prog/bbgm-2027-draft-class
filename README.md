@@ -1,6 +1,6 @@
 # 2027 NBA Draft Class for Basketball GM
 
-A custom [Basketball GM](https://basketball-gm.com) draft class of the real top 60 prospects for the 2027 NBA draft, with real headshots. It's updated daily for withdrawals, new risers and injuries.
+A custom [Basketball GM](https://basketball-gm.com) draft class of the real prospects for the 2027 NBA draft, with real headshots. It's updated daily: new players are added as they break onto the big boards, and the class also tracks risers, fallers, withdrawals and injuries.
 
 ## Import into BBGM
 
