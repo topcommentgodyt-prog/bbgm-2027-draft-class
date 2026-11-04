@@ -4,7 +4,7 @@ A custom [Basketball GM](https://basketball-gm.com) draft class of the real pros
 
 ## Import into BBGM
 
-1. Download [`draft-class-2027.json`](draft-class-2027.json).
+1. Download [`draft-class-2027.json`](https://github.com/topcommentgodyt-prog/bbgm-2027-draft-class/releases/latest/download/draft-class-2027.json) from the [latest release](https://github.com/topcommentgodyt-prog/bbgm-2027-draft-class/releases/latest), which also lists what changed.
 2. In your league, go to **Draft → Draft Scouting**, find the 2027 class, and click **Import**.
 
 Dated snapshots are in [`builds/`](builds/), and every change is logged with sources in [`CHANGELOG.md`](CHANGELOG.md).
