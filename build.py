@@ -86,10 +86,15 @@ def main():
         age = pr["age_nov2026"]
         r = ratings_for(pr["pos"], pr["hgt_in"], pr.get("tags", ""), target_ovr(i, age))
         r.update(season=2027, pos=pr["pos"], locked=False)
-        born_year = int(2026.84 - age)
-        b = pr.get("born")
-        if b and str(b)[:4].isdigit():
-            born_year = int(str(b)[:4])
+        # BBGM shows age as season - born.year. Pick born.year so that in the 2028 season
+        # (the 2027-28 NBA season, right after the draft) it shows the player's real age
+        # on Oct 1, 2027. born.year can therefore be a year later than the real one.
+        age_oct2027 = math.floor(age + 0.92)
+        b = str(pr.get("born") or "")
+        if len(b) == 10 and b[:4].isdigit():
+            y, m, d = int(b[:4]), int(b[5:7]), int(b[8:10])
+            age_oct2027 = 2027 - y - (1 if (m, d) > (10, 1) else 0)
+        born_year = 2028 - age_oct2027
         first, last = pr["name"].split(" ", 1)
         p = {
             "firstName": first, "lastName": last, "tid": -2,

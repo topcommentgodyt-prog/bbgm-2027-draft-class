@@ -2,6 +2,12 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-04 — Age fix
+- **BBGM ages now match the 2027-28 season.** BBGM shows age as season minus birth year, which made players look one or two years too old in the 2028 season. build.py now sets the birth year BBGM uses so that, in the 2028 season, BBGM shows each player's real age on Oct 1, 2027. As a side effect, BBGM's "Born" year can show a year later than the real one.
+- **Initial-build ages were about 0.6 years too old** (apparently measured at the June 2027 draft, not Nov 2026). Real birth dates from Wikipedia were added for 41 players, and `age_nov2026` was recomputed for 46 in total. The remaining 14 initial-build players without a birth date were moved down 0.6. The players added today already had correct ages.
+- Stefan Joksimović was listed at 18.6; he is actually 18.0 (born 2008-11-16, [FIBA](https://www.fiba.basketball/en/players/349181-stefan-joksimovic)).
+- Ratings depend on age, so the class is slightly younger and less developed: #1 is now 47 OVR (was 49).
+
 ## 2026-11-04 — College fix
 - Arafan Diané (Houston), Massamba Diop (Gonzaga), Miles Sadler (West Virginia), Obinna Ekezie Jr. (Louisville), Zvonimir Ivisic (Illinois) and Johann Grünloh (Virginia) had `international: true`, so BBGM showed "College: None". That flag is only for pro-club players, so it is now false for all six and their colleges show.
 
