@@ -2,6 +2,27 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-05 — Daily update
+The class now has 71 active prospects (79 entries, 8 withdrawn). Two new boards came out: [ESPN's top 100 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) and [B/R's new mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3; picks 1–46 were readable). New ranks blend the previous consensus rank (weight 2) with each new board (weight 1). A player missing from ESPN's top 100 counts as 105, and one missing from B/R's readable picks counts as 58.
+
+### Withdrawn
+- None. Nikolas Khamenia is back on ESPN's board (50), but that is still only one current board, so he stays withdrawn.
+
+### Added (each is in the top 60 of 2+ current boards)
+- #39 **Cheickh Niang** (Dolomiti Energia Trento SG, Italy, 6-5, born 2008-09-16): ESPN 46, B/R mock 33. Bio and headshot from [EuroCup](https://www.euroleaguebasketball.net/eurocup/players/cheickh-niang/013756/). Younger brother of Cavs draftee Saliou Niang.
+- #43 **Amare Bynum** (Ohio State PF, 6-8, 240, Omaha NE): ESPN 49, B/R mock 35. [Ohio State roster](https://ohiostatebuckeyes.com/sports/basketball/roster/bynum-amare/12380); ESPN headshot. Birth date not found; age 19.8 from ESPN.
+
+### Rank changes (moves of 5+ spots)
+- Up: Obinna Ekezie Jr. 56 → 31 (ESPN 12, B/R 15), Quentin Coleman 15 → 9 (ESPN 6, B/R 8), Thomas Haugh 24 → 16 (ESPN 9), JJ Andrews 28 → 17 (ESPN 15, B/R 9), Alijah Arenas 31 → 20 (B/R 10), Miikka Muurinen 23 → 18 (B/R 11), Malachi Moreno 33 → 24 (ESPN 14), David Mirković 38 → 30, Alex Condon 39 → 32 (ESPN 22), Dash Daniels 52 → 42 (B/R 29), Davis Fogle 42 → 34 (B/R 17), Jeremy Fears Jr. 58 → 51, Milan Momcilovic 53 → 47, Miles Byrd 65 → 60, John Blackwell 68 → 63.
+- Down: **Dylan Mingo 12 → 45** (missing from both ESPN's top 100 and B/R's mock; he is healthy and had 14 pts, 6 reb, 6 ast in Baylor's [opener](https://baylorbears.com/news/2026/11/2/mens-basketball-mbb-handles-northwestern-state-in-season-opener-87-65)), **Arafan Diané 21 → 53** and **Bryson Howard 30 → 57** (missing from both), Baba Oladotun 18 → 28 (ESPN 37), Cameron Williams 20 → 27 (ESPN 31), Luigi Suigo 16 → 21 (ESPN 29, B/R 32), Matt Able 32 → 40, Cameron Houindo 41 → 50, Pryce Sandfort 47 → 54, Massamba Diop 45 → 56 (ESPN 69), Zvonimir Ivisic 61 → 69 (ESPN 81), Maximo Adams 55 → 70 and Jaxon Richardson 57 → 71 (missing from both).
+- Other one-to-four-spot shifts follow from the additions and the blend.
+
+### Injuries
+- No new, updated or cleared injuries. Brandon McCoy Jr. (Torn ACL) and David Mirković (Broken Foot, 20 games) are unchanged. Checked: [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) (Nov 3), ESPN and B/R board notes, and Illinois' Jake Davis shoulder surgery, which doesn't affect a prospect.
+
+### Other fixes
+- None.
+
 ## 2026-11-04 — Age fix
 - **BBGM ages now match the 2027-28 season.** BBGM shows age as season minus birth year, which made players look one or two years too old in the 2028 season. build.py now sets the birth year BBGM uses so that, in the 2028 season, BBGM shows each player's real age on Oct 1, 2027. As a side effect, BBGM's "Born" year can show a year later than the real one.
 - **Initial-build ages were about 0.6 years too old** (apparently measured at the June 2027 draft, not Nov 2026). Real birth dates from Wikipedia were added for 41 players, and `age_nov2026` was recomputed for 46 in total. The remaining 14 initial-build players without a birth date were moved down 0.6. The players added today already had correct ages.
