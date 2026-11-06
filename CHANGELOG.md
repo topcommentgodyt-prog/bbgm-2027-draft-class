@@ -2,8 +2,8 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
-## 2026-11-06 — Daily update
-No changes. The class still has 71 active prospects (79 entries, 8 withdrawn).
+## 2026-11-06 — Daily update (rebuild)
+No changes. The class still has 71 active prospects (79 entries, 8 withdrawn). Rebuilt and released manually mid-day; no prospects.json changes.
 
 Sources checked:
 - [FanSided top 60](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Kline, Nov 4). Only ranks 1–11 could be read reliably, so it isn't used for re-ranking. Its notable outlier, Tyler Tanner at 5, is one outlet's view. Jordan Scott (Michigan State) is possibly at 52, but that is one board, so he isn't added.
