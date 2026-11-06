@@ -2,6 +2,19 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-06 — Daily update (evening check)
+No changes. The class still has 71 active prospects (79 entries, 8 withdrawn). No new boards or mocks since earlier today. David Mirković remains week-to-week (no specific return date) per [HoopsHQ](https://www.hoopshq.com/players/injury-watch-college-basketball) (Nov 3); Brandon McCoy Jr. (Torn ACL) unchanged. No other prospect injury updates.
+
+Sources checked:
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update; companion piece ["Why Tyran Stokes Is No. 1"](https://bleacherreport.com/articles/25528488-why-tyran-stokes-no-1-overall-our-2027-nba-mock-draft) (Nov 3) confirmed same rankings
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update (last updated ~Oct 20)
+- [No Ceilings mock v1](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v1) (Oct 14) — no v2 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) — no update
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 6) — no new draft-relevant injuries
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) (Tristan Freeman, Nov 3) — Mirkovic week-to-week, Toppin (withdrawn) targeting December at earliest
+
 ## 2026-11-06 — Daily update (rebuild)
 No changes. The class still has 71 active prospects (79 entries, 8 withdrawn). Rebuilt and released manually mid-day; no prospects.json changes.
 
