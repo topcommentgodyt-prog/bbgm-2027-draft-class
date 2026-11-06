@@ -2,6 +2,15 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-06 — Daily update
+No changes. The class still has 71 active prospects (79 entries, 8 withdrawn).
+
+Sources checked:
+- [FanSided top 60](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Kline, Nov 4). Only ranks 1–11 could be read reliably, so it isn't used for re-ranking. Its notable outlier, Tyler Tanner at 5, is one outlet's view. Jordan Scott (Michigan State) is possibly at 52, but that is one board, so he isn't added.
+- [Tankathon big board](https://www.tankathon.com/big-board): last updated 17 days ago, the same order the class started from, so it gives no new signal.
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) and [B/R mock](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips): already used yesterday, no newer versions. [CBS](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) and [No Ceilings](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v1) have no newer versions either.
+- Injuries: [Covers NCAAB injury report](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 6), [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball), and [WAND](https://www.wandtv.com/2026/11/01/david-mirkovic-receives-emergency-appendix-removal-complicating-timeline-illini-return/) on David Mirković. Mirković still has no return date, so he stays at 20 games. Brandon McCoy Jr. is unchanged (Torn ACL). Milan Momcilovic's preseason finger injury was a jam, not a break, and he has been cleared, so no injury is recorded. Moustapha Thiam is probable with an illness, a minor issue, so it isn't recorded.
+
 ## 2026-11-05 — Daily update
 The class now has 71 active prospects (79 entries, 8 withdrawn). Two new boards came out: [ESPN's top 100 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) and [B/R's new mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3; picks 1–46 were readable). New ranks blend the previous consensus rank (weight 2) with each new board (weight 1). A player missing from ESPN's top 100 counts as 105, and one missing from B/R's readable picks counts as 58.
 
