@@ -5,6 +5,10 @@ Newest first. Each daily check adds an entry, even when nothing changed.
 ## 2026-11-06 — Daily update (rebuild)
 No changes. The class still has 71 active prospects (79 entries, 8 withdrawn). Rebuilt and released manually mid-day; no prospects.json changes.
 
+Second check, later on Nov 6: still no changes. No new boards or mocks since the morning check ([CBS mock](https://www.cbssports.com/nba/draft/mock-draft/), [Tankathon](https://www.tankathon.com/big-board), [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects), [No Ceilings](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v1)). No new prospect injuries in [Covers](https://www.covers.com/sport/basketball/ncaab/injuries), [HoopsHQ](https://www.hoopshq.com/players/injury-watch-college-basketball), [ESPN's NCAA injuries page](https://www.espn.com/ncb/injuries/index.html) or [SI's draft news feed](https://www.si.com/nba/draft/newsfeed/another-2027-nba-draft-prospect-reportedly-suffers-preseason-injury-01m1pw81xhte). Iowa State's Killyan Toure has a preseason injury, but he isn't on the board. Mirković still has no return date.
+
+Morning check:
+
 Sources checked:
 - [FanSided top 60](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Kline, Nov 4). Only ranks 1–11 could be read reliably, so it isn't used for re-ranking. Its notable outlier, Tyler Tanner at 5, is one outlet's view. Jordan Scott (Michigan State) is possibly at 52, but that is one board, so he isn't added.
 - [Tankathon big board](https://www.tankathon.com/big-board): last updated 17 days ago, the same order the class started from, so it gives no new signal.
