@@ -16,6 +16,8 @@ Sources checked:
 - [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) (Tristan Freeman, Nov 3) — no updates vs. prior check; Mirković week-to-week (foot + appendectomy), Toppin torn ACL targeting Jan/Feb
 - [Hoops Rumors And-Ones](https://www.hoopsrumors.com/2026/11/and-ones-2027-nba-draft-star-trades-najera-mexico.html) (Rory Maher, Nov 6) — no new board or prospect news beyond ESPN Nov 5
 
+Second check, later on Nov 7: no further changes. No board or mock newer than ESPN (Nov 5) and No Ceilings V.2 (Nov 4) turned up ([ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects), [Tankathon](https://www.tankathon.com/big-board), [NBA Draft Room mock](https://nbadraftroom.com/2027-nba-mock-draft/), [B/R on ESPN's board](https://bleacherreport.com/articles/25529527-tyran-stokes-stefan-joksimovic-top-espns-new-2027-nba-draft-big-board-open-cbb-season)). No new prospect injuries in [Covers](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 5) or [SI's draft news feed](https://www.si.com/nba/draft/newsfeed/another-2027-nba-draft-prospect-reportedly-suffers-preseason-injury-01m1pw81xhte). Mirković still has no return date. The GitHub release for today's changes was published on this check.
+
 ### Reinstated
 - **Nikolas Khamenia** (#57, UConn SF, 6-8 225): back on ESPN (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4) — now on 2 current top-60 boards. Consensus rank from average of these 2 boards: (50 + 58) / 2 = 54, then adjusted in full re-sort to 57.
 
