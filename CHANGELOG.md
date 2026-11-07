@@ -2,6 +2,31 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-07 — Daily update
+The class now has 72 active prospects (79 entries, 7 withdrawn). **No Ceilings NBA BIG Board V.2** (Nov 4, 2026) is a new board missed in prior checks. Blending it into the consensus (previous weight 2, NC V.2 weight 1) produced 19 rank shifts of 5+ spots and reinstated **Nikolas Khamenia** (now on ESPN top 60 at 50 and NC V.2 at 58 — 2 current boards). No new injury updates; no withdrawals.
+
+Sources checked:
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4, 2026) — **NEW**, top-60 composite big board; a player missing from it counts as 65
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version found
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 6) — no new draft-relevant injuries
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) (Tristan Freeman, Nov 3) — no updates vs. prior check; Mirković week-to-week (foot + appendectomy), Toppin torn ACL targeting Jan/Feb
+- [Hoops Rumors And-Ones](https://www.hoopsrumors.com/2026/11/and-ones-2027-nba-draft-star-trades-najera-mexico.html) (Rory Maher, Nov 6) — no new board or prospect news beyond ESPN Nov 5
+
+### Reinstated
+- **Nikolas Khamenia** (#57, UConn SF, 6-8 225): back on ESPN (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4) — now on 2 current top-60 boards. Consensus rank from average of these 2 boards: (50 + 58) / 2 = 54, then adjusted in full re-sort to 57.
+
+### Rank changes (moves of 5+ spots, blended from NC V.2)
+- **Up:** Abdou Toure 22 → 15 (NC V.2: 9), Luigi Suigo 21 → 16 (NC V.2: 11), Christian Collins 29 → 22 (NC V.2: 13), Trey McKenney 36 → 25 (NC V.2: 12), Billy Richmond III 41 → 34 (NC V.2: 17), Dylan Mingo 45 → 38 (NC V.2: 28), Arafan Diané 53 → 42 (NC V.2: 15), Shelton Henderson 52 → 43 (NC V.2: 34), Deron Rippey Jr. 64 → 55 (NC V.2: 31)
+- **Down:** Miikka Muurinen 18 → 28 (NC V.2: 50), Cameron Williams 27 → 32 (NC V.2: 37), Malachi Moreno 24 → 33 (NC V.2: 47), David Mirković 30 → 36 (NC V.2: 45), Davis Fogle 34 → 40 (NC V.2: 51), Sayon Keita 37 → 46 (not on NC V.2), Dash Daniels 42 → 48 (NC V.2: 59), Cheickh Niang 39 → 49 (not on NC V.2), Amare Bynum 43 → 53 (not on NC V.2), Cameron Houindo 50 → 58 (not on NC V.2)
+- Other 1–4-spot shifts follow from the full re-sort.
+
+### Injuries
+- No changes. Brandon McCoy Jr. (Torn ACL, 82 games remaining) and David Mirković (Broken Foot, 20 games remaining) are unchanged. Covers (Nov 6) and HoopsHQ (Nov 3) show no new draft-relevant injuries. JT Toppin remains withdrawn (torn ACL, targeting ~Jan/Feb per HoopsHQ).
+
 ## 2026-11-06 — Daily update (evening check)
 No changes. The class still has 71 active prospects (79 entries, 8 withdrawn). No new boards or mocks since earlier today. David Mirković remains week-to-week (no specific return date) per [HoopsHQ](https://www.hoopshq.com/players/injury-watch-college-basketball) (Nov 3); Brandon McCoy Jr. (Torn ACL) unchanged. No other prospect injury updates.
 
