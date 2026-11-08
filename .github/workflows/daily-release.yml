@@ -1,0 +1,84 @@
+name: Daily Release
+
+# Fires whenever a daily-update commit lands on main (which always adds a
+# dated build file under builds/).  Creates a matching GitHub release and
+# attaches that day's JSON as a downloadable asset.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'builds/draft-class-2027-*.json'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to create releases and upload assets
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Derive today's tag
+        id: tag
+        # Use the date embedded in the newest build filename so the tag matches
+        # the CHANGELOG entry even if the workflow runs slightly after midnight.
+        run: |
+          LATEST=$(ls builds/draft-class-2027-*.json | sort | tail -1)
+          TAG=$(echo "$LATEST" | grep -oP '\d{4}-\d{2}-\d{2}')
+          echo "tag=$TAG"         >> "$GITHUB_OUTPUT"
+          echo "build=$LATEST"    >> "$GITHUB_OUTPUT"
+
+      - name: Check whether this release already exists
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if gh release view "${{ steps.tag.outputs.tag }}" \
+               --repo "${{ github.repository }}" &>/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Extract today's CHANGELOG entry
+        id: notes
+        if: steps.check.outputs.exists == 'false'
+        run: |
+          python3 - <<'PY'
+          import os, re
+
+          with open("CHANGELOG.md") as f:
+              text = f.read()
+
+          # Split on section headers; grab the first one
+          parts = re.split(r'(?=^## \d{4}-\d{2}-\d{2})', text, flags=re.MULTILINE)
+          entry = next((p.strip() for p in parts if re.match(r'^## \d{4}-\d{2}-\d{2}', p)), "")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              # multi-line output via heredoc delimiter
+              out.write("notes<<__NOTES_EOF__\n")
+              out.write(entry + "\n")
+              out.write("__NOTES_EOF__\n")
+
+              # one-line title: date + everything after the em-dash
+              first_line = entry.splitlines()[0] if entry else ""
+              title = re.sub(r'^## ', '', first_line)
+              out.write(f"title={title}\n")
+          PY
+
+      - name: Create release and upload asset
+        if: steps.check.outputs.exists == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ steps.tag.outputs.tag }}" \
+            --repo "${{ github.repository }}" \
+            --title "${{ steps.notes.outputs.title }}" \
+            --notes "${{ steps.notes.outputs.notes }}" \
+            "${{ steps.tag.outputs.build }}"
+
+      - name: Release already existed — skip
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          echo "Release ${{ steps.tag.outputs.tag }} already exists; nothing to do."
