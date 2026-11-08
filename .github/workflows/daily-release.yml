@@ -3,11 +3,13 @@ name: Daily Release
 # Fires whenever a daily-update commit lands on main (which always adds a
 # dated build file under builds/).  Creates a matching GitHub release and
 # attaches that day's JSON as a downloadable asset.
+# Also supports manual dispatch so a missed release can be re-triggered.
 on:
   push:
     branches: [main]
     paths:
       - 'builds/draft-class-2027-*.json'
+  workflow_dispatch:
 
 jobs:
   release:
