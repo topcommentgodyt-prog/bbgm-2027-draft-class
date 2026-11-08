@@ -2,6 +2,23 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-08 — Daily update
+No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since yesterday's check. David Mirković is confirmed "out indefinitely" per the ESPN Nov 5 recap of Illinois 112-70 Penn — he did not play in either of Illinois' first two games (vs FDU Nov 2 or Penn Nov 5), and his injury status (foot surgery + appendectomy) remains unchanged from the Nov 7 entry; gamesRemaining held at 20. No new draft-relevant injuries or withdrawals found.
+
+Sources checked:
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version; a July 9 "new cycle" article (fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-for-the-new-cycle) predates it and is not a newer update
+- [ESPN game recap — Illinois 112-70 Penn](https://www.espn.com/mens-college-basketball/recap?gameId=401913526) (Nov 5) — Mirković confirmed not in lineup, "out indefinitely"; Illinois also beat FDU 120-45 on Nov 2 without him; Jake Davis (Illinois starter) suffered a separated shoulder vs FDU (surgery Nov 4), but Davis does not appear on any tracked 2027 boards and is not added
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) — no new draft-relevant injuries found
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) — no updates vs. Nov 7
+
+### Injuries
+- No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) is confirmed "out indefinitely" per ESPN Nov 5. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb).
+
 ## 2026-11-07 — Daily update
 The class now has 72 active prospects (79 entries, 7 withdrawn). **No Ceilings NBA BIG Board V.2** (Nov 4, 2026) is a new board missed in prior checks. Blending it into the consensus (previous weight 2, NC V.2 weight 1) produced 19 rank shifts of 5+ spots and reinstated **Nikolas Khamenia** (now on ESPN top 60 at 50 and NC V.2 at 58 — 2 current boards). No new injury updates; no withdrawals.
 
