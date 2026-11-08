@@ -28,8 +28,8 @@ jobs:
         run: |
           LATEST=$(ls builds/draft-class-2027-*.json | sort | tail -1)
           TAG=$(echo "$LATEST" | grep -oP '\d{4}-\d{2}-\d{2}')
-          echo "tag=$TAG"         >> "$GITHUB_OUTPUT"
-          echo "build=$LATEST"    >> "$GITHUB_OUTPUT"
+          echo "tag=$TAG"      >> "$GITHUB_OUTPUT"
+          echo "build=$LATEST" >> "$GITHUB_OUTPUT"
 
       - name: Check whether this release already exists
         id: check
@@ -38,12 +38,12 @@ jobs:
         run: |
           if gh release view "${{ steps.tag.outputs.tag }}" \
                --repo "${{ github.repository }}" &>/dev/null 2>&1; then
-            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "exists=true"  >> "$GITHUB_OUTPUT"
           else
             echo "exists=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Extract today's CHANGELOG entry
+      - name: Extract today's CHANGELOG entry into files
         id: notes
         if: steps.check.outputs.exists == 'false'
         run: |
@@ -53,19 +53,21 @@ jobs:
           with open("CHANGELOG.md") as f:
               text = f.read()
 
-          # Split on section headers; grab the first one
+          # Grab the first dated section
           parts = re.split(r'(?=^## \d{4}-\d{2}-\d{2})', text, flags=re.MULTILINE)
-          entry = next((p.strip() for p in parts if re.match(r'^## \d{4}-\d{2}-\d{2}', p)), "")
+          entry = next(
+              (p.strip() for p in parts if re.match(r'^## \d{4}-\d{2}-\d{2}', p)),
+              ""
+          )
 
+          # Write full entry to a file — avoids all shell-quoting problems
+          with open("release_notes.md", "w") as f:
+              f.write(entry + "\n")
+
+          # Write one-line title to GITHUB_OUTPUT only (safe: single line, no special chars expected)
+          first_line = entry.splitlines()[0] if entry else ""
+          title = re.sub(r'^## ', '', first_line)
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
-              # multi-line output via heredoc delimiter
-              out.write("notes<<__NOTES_EOF__\n")
-              out.write(entry + "\n")
-              out.write("__NOTES_EOF__\n")
-
-              # one-line title: date + everything after the em-dash
-              first_line = entry.splitlines()[0] if entry else ""
-              title = re.sub(r'^## ', '', first_line)
               out.write(f"title={title}\n")
           PY
 
@@ -77,10 +79,9 @@ jobs:
           gh release create "${{ steps.tag.outputs.tag }}" \
             --repo "${{ github.repository }}" \
             --title "${{ steps.notes.outputs.title }}" \
-            --notes "${{ steps.notes.outputs.notes }}" \
+            --notes-file release_notes.md \
             "${{ steps.tag.outputs.build }}"
 
       - name: Release already existed — skip
         if: steps.check.outputs.exists == 'true'
-        run: |
-          echo "Release ${{ steps.tag.outputs.tag }} already exists; nothing to do."
+        run: echo "Release ${{ steps.tag.outputs.tag }} already exists; nothing to do."
