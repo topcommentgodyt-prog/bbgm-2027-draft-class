@@ -2,6 +2,22 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-09 — Daily update
+No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since the Nov 8 check. Illinois has not played since Nov 5 (next game Nov 11 at Texas Tech), so David Mirković's gamesRemaining is held at 20. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. No new draft-relevant injuries or withdrawals found. Covers and HoopsHQ were not accessible today (request blocked); no other injury source turned up new information.
+
+Sources checked:
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version; the Oct 20 FanSided mock draft ([opening night edition](https://fansided.com/nba/2027-nba-mock-draft-predicted-first-round-picks-on-opening-night), Christopher Kline) predates it and is not a newer update
+- Covers NCAAB injuries — blocked (request not answered in time); last readable check was Nov 7
+- HoopsHQ injury watch — blocked (request not answered in time); last readable check was Nov 3
+
+### Injuries
+- No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) is out indefinitely; Illinois has no game before Nov 11. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb).
+
 ## 2026-11-08 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since yesterday's check. David Mirković is confirmed "out indefinitely" per the ESPN Nov 5 recap of Illinois 112-70 Penn — he did not play in either of Illinois' first two games (vs FDU Nov 2 or Penn Nov 5), and his injury status (foot surgery + appendectomy) remains unchanged from the Nov 7 entry; gamesRemaining held at 20. No new draft-relevant injuries or withdrawals found.
 
