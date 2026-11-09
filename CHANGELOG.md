@@ -18,6 +18,8 @@ Sources checked:
 ### Injuries
 - No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) is out indefinitely; Illinois has no game before Nov 11. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb).
 
+Second check, later on Nov 9: still no changes. No board or mock newer than ESPN (Nov 5) and No Ceilings V.2 (Nov 4) turned up ([Tankathon mock](https://www.tankathon.com/mock-draft), [Zagsblog early mock](https://www.zagsblog.com/2026/10/30/tyran-stokes-jordan-smith-jr-headline-early-2027-nba-mock-draft/), Oct 30, which predates the current boards). The [Covers injury report](https://www.covers.com/sport/basketball/ncaab/injuries) was readable this time (Nov 9). It shows nothing new for tracked prospects: Jaxon Richardson is still questionable (upper body), a minor issue, so no injury is recorded, and Mirković is still listed with a foot injury. The [SI Illinois update](https://www.si.com/college/illinois/basketball/illinois-coach-brad-underwood-latest-david-mirkovic-recovery) still gives no return timeline for Mirković, so he stays at 20 games.
+
 ## 2026-11-08 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since yesterday's check. David Mirković is confirmed "out indefinitely" per the ESPN Nov 5 recap of Illinois 112-70 Penn — he did not play in either of Illinois' first two games (vs FDU Nov 2 or Penn Nov 5), and his injury status (foot surgery + appendectomy) remains unchanged from the Nov 7 entry; gamesRemaining held at 20. No new draft-relevant injuries or withdrawals found.
 
