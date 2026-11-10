@@ -2,6 +2,23 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-10 — Daily update
+No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since the Nov 9 check among the tracked sources. Illinois plays at Texas Tech **tonight (Nov 10, 8:00 PM ET)** — the previous CHANGELOG entry incorrectly listed this as Nov 11; the game is at United Supermarkets Arena in Lubbock. David Mirković (Broken Foot + appendectomy, 20 games remaining) has not been cleared and was not expected to play — gamesRemaining held at 20 pending tonight's result. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged and confirmed out for the full 2026-27 season. JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb). A new outlet, ClutchPoints, published a first-round mock draft on Nov 9 (Bailey Bassett, Nov 9, 2026); it is not in the tracked source list and was not used for consensus blending, but its top-30 picks largely mirror the existing consensus; it is noted for reference.
+
+Sources checked:
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update found in search
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) — not accessible today (request blocked)
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) — not accessible today (request blocked)
+- [ClutchPoints 2027 first-round mock](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops) (Bailey Bassett, Nov 9, 2026) — new outlet, not in tracked source list, not used for consensus
+
+### Injuries
+- No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) is still out indefinitely per all sources; Illinois at Texas Tech is tonight at 8 PM ET (not Nov 11 as previously noted); gamesRemaining unchanged pending game result. Brandon McCoy Jr. (Torn ACL, 82 games remaining) confirmed out for the full 2026-27 season per [CBS Sports](https://www.cbssports.com/college-basketball/news/brandon-mccoy-jr-injury-michigan-freshman-miss-2026-27-season/) and [247Sports](https://247sports.com/college/michigan/article/michigan-brandon-mccoy-miss-season-acl-injury-289382929/). JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb).
+
 ## 2026-11-09 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since the Nov 8 check. Illinois has not played since Nov 5 (next game Nov 11 at Texas Tech), so David Mirković's gamesRemaining is held at 20. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. No new draft-relevant injuries or withdrawals found. Covers and HoopsHQ were not accessible today (request blocked); no other injury source turned up new information.
 
