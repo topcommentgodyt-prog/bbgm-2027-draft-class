@@ -19,6 +19,26 @@ Sources checked:
 ### Injuries
 - No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) is still out indefinitely per all sources; Illinois at Texas Tech is tonight at 8 PM ET (not Nov 11 as previously noted); gamesRemaining unchanged pending game result. Brandon McCoy Jr. (Torn ACL, 82 games remaining) confirmed out for the full 2026-27 season per [CBS Sports](https://www.cbssports.com/college-basketball/news/brandon-mccoy-jr-injury-michigan-freshman-miss-2026-27-season/) and [247Sports](https://247sports.com/college/michigan/article/michigan-brandon-mccoy-miss-season-acl-injury-289382929/). JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb).
 
+Second check, later on Nov 10: still no changes. Three new aggregates or mocks from Nov 9 were reviewed, and none justifies a change:
+- **Kanon Catchings** (Georgia SF) is #22 in the ClutchPoints mock and #3 in the Ultimate Big Board consensus. That consensus averages mostly older mocks (Jun 29–Nov 3, including NBADraft.net's July extended mock), so it isn't an independent current board. He isn't on ESPN's Nov 5 top 100 as far as could be found, or on No Ceilings V.2. That makes one current board, short of the two needed. Watching.
+- The other new Ultimate Big Board names (Bryson Tiller, Sammy Jackson, Cole Cloer, Mouhamed Sylla, Amadou Seini) appear on no other current top-60 board found.
+- The NBA Draft Room and ClutchPoints mocks are single-outlet views, and neither moves the consensus enough to re-rank anyone.
+
+David Mirković is listed as out (foot surgery and appendectomy) for tonight's game at Texas Tech, and Illinois still has no timetable. Outside writers estimate he returns around mid-December, so he stays at 20 games. Kansas' Melvin Council Jr. broke a foot (out indefinitely), but he's a sixth-year senior and isn't a tracked prospect.
+
+Sources checked on the second pass:
+- [Ultimate Big Board 2027 consensus](https://ultimatebigboard.com/nba/2027/) (refreshed Nov 9; aggregates sources dated Jun 29–Nov 3)
+- [NBA Draft Room mock](https://nbadraftroom.com/2027-nba-mock-draft/) (updated Nov 9)
+- [ClutchPoints mock](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops) (Bailey Bassett, Nov 9)
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5): no update
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3): no update
+- [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/): no update
+- [Tankathon big board](https://www.tankathon.com/big-board): no update
+- [Field Level Media: Illinois at Texas Tech preview](https://fieldlevelmedia.com/%25news_cat%25/no-3-illinois-offense-will-be-put-to-test-vs-no-16-texas-tech/) (Nov 10): Mirković out
+- [A Sea of Blue: Melvin Council Jr. injury](https://www.aseaofblue.com/kentucky-wildcats-basketball/187376/melvin-council-jr-injury-kansas-jayhawks-news-champions-classic)
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 7): no new draft-relevant injuries
+- NBADraft.net was blocked (HTTP 403)
+
 ## 2026-11-09 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since the Nov 8 check. Illinois has not played since Nov 5 (next game Nov 11 at Texas Tech), so David Mirković's gamesRemaining is held at 20. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged. No new draft-relevant injuries or withdrawals found. Covers and HoopsHQ were not accessible today (request blocked); no other injury source turned up new information.
 
