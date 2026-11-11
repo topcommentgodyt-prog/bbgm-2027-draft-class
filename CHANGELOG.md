@@ -2,6 +2,29 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-11 — Daily update (second check)
+Second check, later on Nov 11. The earlier entry below found no changes; this check adds one injury. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks have appeared since the Nov 9–10 checks.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None. The NBA Draft Room mock (Nov 9) is a single outlet, so it doesn't change the consensus.
+
+### Injuries
+- **New: Nikolas Khamenia** (UConn, #57) has a Foot Injury, estimated at 10 games. He hurt his foot without contact in the Nov 9 win over Wagner and is in a walking boot until an MRI and X-ray come back. Dan Hurley said it's hard to tell how long he'll be out ("weeks, months, whatever it could be"). The 10 games is a placeholder until there's a diagnosis. Sources: [ESPN](https://www.espn.com/mens-college-basketball/story/_/id/50438114/nik-khamenia-exits-no-4-uconn-game-vs-wagner-injury), [ClutchPoints](https://clutchpoints.com/ncaa-basketball/uconn-basketball-news-dan-hurley-provides-nik-khamenia-injury-update-during-wagner-clash), [CFN](https://collegefootballnetwork.com/mens-college-basketball/hell-obviously-be-in-a-boot-until-we-see-whats-up-dan-hurley-gives-update-on-nik-khamenias-status-after-injury-against-wagner/).
+- **Unchanged: David Mirković** (Broken Foot + appendectomy, 20 games) missed Illinois' 84-78 loss at Texas Tech on Nov 10. One Yahoo preview expects him back around the end of November, but Illinois has given no official timeline, so he stays at 20. Sources: [Illinois Athletics recap](https://fightingillini.com/news/2026/11/10/mens-basketball-comeback-falls-short-for-no-3-illini-in-84-78-loss-at-no-16-texas-tech), [Yahoo preview](https://sports.yahoo.com/articles/illinois-vs-texas-tech-preview-012022555.html).
+- **Not recorded: Quentin Coleman** (Illinois) hurt his ankle and was ill during the Texas Tech game. He came back and led Illinois with 19 points, so no injury is recorded. Source: [Writing Illini](https://writingillini.com/quentin-coleman-injury-update-from-illinois-basketball-vs-texas-tech-contest).
+- **Unchanged: Brandon McCoy Jr.** (Torn ACL, 82 games).
+
+### Other fixes
+- None.
+
+Sources checked: [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Nov 5), [Tankathon](https://www.tankathon.com/big-board), [NBA Draft Room mock](https://nbadraftroom.com/2027-nba-mock-draft/) (Nov 9), [Ultimate Big Board](https://ultimatebigboard.com/nba/2027/), [FanSided/Yahoo top 60](https://sports.yahoo.com/articles/2027-nba-draft-big-board-173944256.html), [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries).
+
 ## 2026-11-11 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks found since the Nov 10 check. Illinois lost 84-78 at No. 16 Texas Tech on Nov 10 (confirmed final score); David Mirković was absent from the game recap and player mentions — confirming he did not play. His gamesRemaining stays at 20; no new medical timeline has been issued. Brandon McCoy Jr. (Torn ACL, 82 games remaining) and JT Toppin (Torn ACL, withdrawn) are unchanged.
 
