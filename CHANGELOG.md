@@ -2,6 +2,28 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-11 — Daily update
+No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks found since the Nov 10 check. Illinois lost 84-78 at No. 16 Texas Tech on Nov 10 (confirmed final score); David Mirković was absent from the game recap and player mentions — confirming he did not play. His gamesRemaining stays at 20; no new medical timeline has been issued. Brandon McCoy Jr. (Torn ACL, 82 games remaining) and JT Toppin (Torn ACL, withdrawn) are unchanged.
+
+Quentin Coleman played well in the Texas Tech loss: 19 points on 7-of-9 shooting with 5-of-6 from three, 5 rebounds, 4 assists and 2 steals. Noted for reference but no draft rank change (single-game performance, boards haven't moved).
+
+FanSided "new cycle" URL (fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-for-the-new-cycle) turned out to be their July 9 board, not a newer one — the Nov 4 board ("as college basketball gets underway") remains FanSided's most recent. CBS Sports search turned up two older articles (Jun 24 and Jun 29, 2026) that pre-date the tracked Oct 17 version. No update from Tankathon found. Covers and HoopsHQ remain blocked.
+
+Sources checked:
+- [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update; two older CBS articles (Jun 24 and Jun 29) were found but are earlier than the tracked version
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update found in search
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version; "new cycle" URL confirmed as Jul 9 2026 (older)
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) — blocked (request not answered)
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) — blocked
+- [Illinois Athletics — Texas Tech recap](https://fightingillini.com/news/2026/11/10/mens-basketball-comeback-falls-short-for-no-3-illini-in-84-78-loss-at-no-16-texas-tech) (Nov 10) — Mirković not mentioned in box score or player notes; confirmed absent
+- [ESPN — Texas Tech 84, Illinois 78 final](https://www.espn.com/mens-college-basketball/recap?gameId=401913527) (Nov 10) — game confirmed played and final
+
+### Injuries
+- No changes. David Mirković (Broken Foot + appendectomy, 20 games remaining) confirmed out for the Texas Tech game (not in box score or recap); no medical update or return timeline change. Brandon McCoy Jr. (Torn ACL, 82 games remaining) confirmed out for the season; no new reports. JT Toppin (withdrawn) unchanged.
+
 ## 2026-11-10 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks since the Nov 9 check among the tracked sources. Illinois plays at Texas Tech **tonight (Nov 10, 8:00 PM ET)** — the previous CHANGELOG entry incorrectly listed this as Nov 11; the game is at United Supermarkets Arena in Lubbock. David Mirković (Broken Foot + appendectomy, 20 games remaining) has not been cleared and was not expected to play — gamesRemaining held at 20 pending tonight's result. Brandon McCoy Jr. (Torn ACL, 82 games remaining) is unchanged and confirmed out for the full 2026-27 season. JT Toppin remains withdrawn (torn ACL, targeting Jan/Feb). A new outlet, ClutchPoints, published a first-round mock draft on Nov 9 (Bailey Bassett, Nov 9, 2026); it is not in the tracked source list and was not used for consensus blending, but its top-30 picks largely mirror the existing consensus; it is noted for reference.
 
