@@ -2,6 +2,37 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-12 — Daily update (second check)
+Second check, later on Nov 12. The earlier entry below found no changes, but this check found new mocks published Nov 9–11.
+
+Three new mocks came out Nov 9–11: [No Ceilings mock V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11, two rounds), [NBA Draft Room](https://nbadraftroom.com/2027-nba-mock-draft/) (updated Nov 11, two rounds) and [ClutchPoints](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops) (Nov 9, first round). The class now has 73 active prospects (79 entries, 6 withdrawn).
+
+### Withdrawn
+- None.
+
+### Added
+- **Klark Riethauser** (Élan Chalon, SF) is active again at #73. He was withdrawn on Nov 4 after dropping off the boards. He is now back in the top 60 of two current mocks: No Ceilings mock V.2 has him at #42 and NBA Draft Room's second round has him at #48. Sources: [No Ceilings](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2), [NBA Draft Room 2nd round](https://nbadraftroom.com/2027-2nd-round/).
+- Not added:
+  - **Adonis Ratliff** (USC) is #27 at NBA Draft Room, and **Darius Ratliff** (USC) is #49 at No Ceilings. Each twin is on only one current board. NBADraft.net's mock (#21 and #22) is about four months old.
+  - **Kanon Catchings** (Georgia) is still only on ClutchPoints (#22). NBA Draft Room has him at #61.
+  - **Tajh Ariza, John Mobley Jr., Isaiah Johnson, Kayden Mingo, Somto Cyril** and **Amani Hansberry** appear only in No Ceilings' second round. **Hamad Mousa, Pavle Backo, Thijs De Ridder, Michael Ruzic, Adam Atamna, Sebastian Rancik** and **Coen Carr** appear only in NBA Draft Room's.
+  - **Matas Vokietaitis** (NBA Draft Room #28) and **Tomislav Ivisic** (NBA Draft Room #60) are each on one board, so they stay withdrawn.
+
+### Rank changes
+- None. The new mocks scatter around the current order and don't show a consensus move. For example, Quentin Coleman is #3 at NBA Draft Room, #6 at No Ceilings and #7 at ClutchPoints, and is #6 here.
+
+### Injuries
+- **New: Christian Collins** (USC, #22) has a Foot Injury, estimated at 10 games. He hasn't made his USC debut yet. InsideUSC reported on Oct 5 that he had been out for several months with a foot injury, and the No Ceilings mock (Nov 11) says he hasn't played yet this season. USC lists the injury as undisclosed and has given no timeline, so the 10 games is a placeholder. Sources: [InsideUSC](https://x.com/InsideUSC/status/2107193922535731617), [Heavy](https://heavy.com/sports/nba/boston-celtics/christian-collins-celtics-mock-draft/), [Rotowire](https://www.rotowire.com/cbasketball/player/christian-collins-28091).
+- **Unchanged: Nikolas Khamenia** (Foot Injury, 10 games). The MRI and X-ray results haven't been released, and he's considered unlikely for Friday's game vs. Ohio State. Sources: [Yahoo/CT Insider](https://sports.yahoo.com/articles/uconn-men-ask-players-step-182800136.html), [Busting Brackets](https://bustingbrackets.com/uconn-basketball-fans-hold-their-breath-as-they-wait-for-nikolas-khamenia-s-injury-update-basketball).
+- **Unchanged: David Mirković** (Broken Foot + appendectomy, 20 games). There is still no return timeline. Source: [On3](https://www.on3.com/sites/orange-blue-news/news/david-mirkovic-underwent-an-emergency-appendectomy/).
+- **Unchanged: Brandon McCoy Jr.** (Torn ACL, 82 games).
+- **Not recorded:** NBA Draft Room notes that Dylan Mingo and Alijah Arenas have missed time with injuries. Both appear to be references to past injuries, and no current absence was found.
+
+### Other fixes
+- None.
+
+Sources checked: [No Ceilings mock V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2), [NBA Draft Room R1](https://nbadraftroom.com/2027-nba-mock-draft/) and [R2](https://nbadraftroom.com/2027-2nd-round/), [ClutchPoints mock](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops), [Floor & Ceiling Big Board 1.0](https://floorandceiling.substack.com/p/2027-nba-draft-big-board) (Nov 2), [CBS mock](https://www.cbssports.com/nba/draft/mock-draft/), [Ultimate Big Board](https://ultimatebigboard.com/nba/2027/), and NBADraft.net (blocked, 403).
+
 ## 2026-11-12 — Daily update
 No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new mock draft boards or injury updates found since the Nov 11 (second check) entry. Michigan beat Marquette 84-70 on Nov 11 — Brandon McCoy Jr. (Torn ACL) was not in the box score, confirming he remains out for the season; gamesRemaining stays at 82. UConn's next game is Nov 13 vs Ohio State; no Khamenia MRI or diagnosis reported publicly. Illinois' last game was Nov 10 (Texas Tech loss); no subsequent games through today.
 

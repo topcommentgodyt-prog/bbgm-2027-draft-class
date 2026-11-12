@@ -394,9 +394,12 @@
     "background": "transparent",
     "hometown": "Inglewood, CA",
     "born": "2007-09-11",
-    "injury": null,
+    "injury": {
+      "type": "Foot Injury",
+      "gamesRemaining": 10
+    },
     "status": "active",
-    "notes": ""
+    "notes": "2026-11-12: Has not debuted for USC; out since the summer with a foot injury (InsideUSC Oct 5; Heavy Nov 9; No Ceilings mock V.2 Nov 11). No timeline; 10 games is a placeholder. https://x.com/InsideUSC/status/2107193922535731617"
   },
   {
     "rank": 23,
@@ -1320,8 +1323,8 @@
     "hometown": "Geneva, Switzerland",
     "born": "2008-03-29",
     "injury": null,
-    "status": "withdrawn",
-    "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
+    "status": "active",
+    "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). 2026-11-12 REACTIVATED: back in the top 60 of two current mocks (No Ceilings mock V.2 #42, NBA Draft Room 2nd round #48, both Nov 11). https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2 https://nbadraftroom.com/2027-2nd-round/"
   },
   {
     "rank": 74,
