@@ -2,6 +2,34 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-12 — Daily update
+No changes. The class still has 72 active prospects (79 entries, 7 withdrawn). No new mock draft boards or injury updates found since the Nov 11 (second check) entry. Michigan beat Marquette 84-70 on Nov 11 — Brandon McCoy Jr. (Torn ACL) was not in the box score, confirming he remains out for the season; gamesRemaining stays at 82. UConn's next game is Nov 13 vs Ohio State; no Khamenia MRI or diagnosis reported publicly. Illinois' last game was Nov 10 (Texas Tech loss); no subsequent games through today.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None. No new boards found across any tracked source.
+
+### Injuries
+- **Unchanged: Brandon McCoy Jr.** (Michigan, Torn ACL, 82 games) confirmed absent from Michigan's 84-70 win over Marquette on Nov 11. No new medical timeline. Sources: [sportbusy.com Michigan vs Marquette box score](https://www.sportbusy.com/games/ncaam/14463335-marquette-golden-eagles-at-michigan-wolverines-2026-11-11/).
+- **Unchanged: David Mirković** (Illinois, Broken Foot + appendectomy, 20 games) no games played by Illinois since Nov 10. Next Illinois game not yet announced; gamesRemaining held at 20 pending new medical timeline.
+- **Unchanged: Nikolas Khamenia** (UConn, Foot Injury, 10 games) injured Nov 9 vs Wagner; no MRI/X-ray results reported publicly as of Nov 12. UConn next plays Nov 13 vs Ohio State. Placeholder of 10 games remains until diagnosis confirmed.
+- **Unchanged: JT Toppin** (Texas Tech, Torn ACL, 38 games, withdrawn) rehabbing; no updates.
+
+Sources checked:
+- [ESPN 2027 NBA Draft top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [B/R mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith-jr-stefan-joksimovic/) (Oct 17) — no update; two additional CBS URLs found were older articles from June 29 and June 24, 2026
+- [Tankathon big board](https://www.tankathon.com/big-board) — no update found in search
+- [No Ceilings NBA BIG Board V.2](https://www.noceilingsnba.com/p/2027-nba-draft-big-board-v2) (Nov 4) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version; "new cycle" URL confirmed as Jul 9 2026 (older)
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) — not accessible (blocked)
+- [HoopsHQ injury watch](https://www.hoopshq.com/players/injury-watch-college-basketball) — not accessible (blocked)
+
 ## 2026-11-11 — Daily update (second check)
 Second check, later on Nov 11. The earlier entry below found no changes; this check adds one injury. The class still has 72 active prospects (79 entries, 7 withdrawn). No new boards or mocks have appeared since the Nov 9–10 checks.
 
