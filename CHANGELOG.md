@@ -2,6 +2,47 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-13 — Daily update
+73 active prospects (79 entries, 6 withdrawn). One injury update: Nikolas Khamenia's foot injury now has an official diagnosis with a 6–8 week timeline; gamesRemaining updated from 10 (placeholder) to 15. No new prospects added. No rank changes met the 5-spot threshold.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None. The new SB Nation mock (Ricky O'Donnell, Nov 10, 2026) was incorporated into the blended consensus. It shows Quentin Coleman at #3 and places Joksimović outside the top 10, but with the blending formula (previous consensus weight 2, new board weight 1) no player moved 5+ consensus spots on a single new board. The largest moves: Coleman from #6 blends toward #5; Joksimović from #5 blends toward #7; Abdou Toure from #15 blends toward #13. All under threshold.
+
+### Injuries
+- **Updated: Nikolas Khamenia** (UConn, #57, Foot Injury) — official diagnosis received Nov 12, 2026: at least 6–8 weeks out. gamesRemaining updated from 10 to 15. Dan Hurley said a return "likely happens during Big East play" as best case. He will miss at minimum the Ohio State (Nov 13), Duke, No. 3 Illinois, No. 12 Arizona, and No. 6 Virginia games. Sources: [CBS Sports](https://www.cbssports.com/college-basketball/news/nik-khamenia-foot-injury-uconn-basketball) (Nov 12), [Yahoo/SB Nation](https://sports.yahoo.com/articles/nik-khamenia-sidelined-least-6-005156190.html) (Nov 12–13), [BVM Sports](https://bvmsports.com/2026/11/12/uconns-nik-khamenia-out-6-8-weeks-ahead-of-tough-stretch/).
+- **Unchanged: Brandon McCoy Jr.** (Michigan, Torn ACL, 82 games). Confirmed absent from all Michigan games this season; out for year.
+- **Unchanged: Christian Collins** (USC, Foot Injury, 10 games). No new USC basketball updates found.
+- **Unchanged: David Mirković** (Illinois, Broken Foot, 20 games). Illinois opened the 2026-27 season vs FDU (Nov 2, 120-45 win) and Penn (Nov 5); headlines feature Stojakovic and Vaaks, not Mirković, suggesting he has not yet played. Illinois played Texas Tech on Nov 10 and Sam Houston State today (Nov 13); no Mirković return report found. gamesRemaining held at 20 pending a new medical timeline.
+- **Unchanged: JT Toppin** (Texas Tech, Torn ACL, 38 games, withdrawn). No updates.
+
+### New boards found
+- **SB Nation (Ricky O'Donnell, Nov 10, 2026)**: Top 10 — Stokes, J. Smith Jr., Q. Coleman, Branch III, Holt, Ngongba II, Landrew, Kharchenkov, Toure, Krivas. All are already tracked; no new additions. Source cited via [QuantoSei aggregation](https://news.quantosei.com/2026/11/12/2027-mock-drafts-top-nba-and-nfl-prospects-revealed/) (Nov 12) and [FanSided Rockets analysis](https://fansided.com/nba/new-nba-mock-draft-shows-how-the-rockets-could-build-a-historic-defense) (Nov 12).
+- **FanSided "5 freshmen blowing up 2027 mock drafts"** (Nov 12, 2026): profiles Miles Sadler (WV, #47 tracked), Obinna Ekezie Jr. (Louisville, #27 tracked), Luigi Suigo (Villanova, #16 tracked), Quentin Coleman (Illinois, #6 tracked) and Dylan Mingo (Baylor, #38 tracked). No new additions.
+
+Sources checked:
+- [CBS Sports — Khamenia injury](https://www.cbssports.com/college-basketball/news/nik-khamenia-foot-injury-uconn-basketball) (Nov 12, 2026, David Cobb)
+- [Yahoo Sports — Khamenia 6–8 weeks](https://sports.yahoo.com/articles/nik-khamenia-sidelined-least-6-005156190.html) (Nov 12–13, 2026, Dan Madigan/SB Nation)
+- [BVM Sports — Khamenia out](https://bvmsports.com/2026/11/12/uconns-nik-khamenia-out-6-8-weeks-ahead-of-tough-stretch/) (Nov 12, 2026)
+- [SB Nation / QuantoSei — 2027 mock Nov 10](https://news.quantosei.com/2026/11/12/2027-mock-drafts-top-nba-and-nfl-prospects-revealed/) (aggregated Nov 12, 2026)
+- [FanSided — 5 freshmen blowing up mock drafts](https://fansided.com/nba/5-freshmen-who-are-already-blowing-up-2027-nba-mock-drafts) (Nov 12, 2026, Christopher Kline)
+- [FanSided — Rockets mock / SB Nation reference](https://fansided.com/nba/new-nba-mock-draft-shows-how-the-rockets-could-build-a-historic-defense) (Nov 12, 2026, Mat Issa)
+- [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/) — no update since Oct 17
+- [Bleacher Report mock](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no new version
+- [NBA Draft Room](https://nbadraftroom.com/2027-nba-mock-draft/) (Nov 11) — no update found
+- Tankathon big board — no update found
+- NBADraft.net — blocked (403)
+- covers.com NCAAB injuries — no new injuries for tracked prospects found
+- hoopshq.com injury watch — no new injuries for tracked prospects found
+
 ## 2026-11-12 — Daily update (second check)
 Second check, later on Nov 12. The earlier entry below found no changes, but this check found new mocks published Nov 9–11.
 
