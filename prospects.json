@@ -1033,10 +1033,10 @@
     "born": null,
     "injury": {
       "type": "Foot Injury",
-      "gamesRemaining": 15
+      "gamesRemaining": 30
     },
     "status": "active",
-    "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis."
+    "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play)."
   },
   {
     "rank": 58,

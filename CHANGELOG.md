@@ -2,6 +2,27 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-13 — Daily update (second check)
+Second check, later on Nov 13. The class still has 73 active prospects (79 entries, 6 withdrawn).
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None. No new boards since the first Nov 13 check. Thunder On SI (Nov 12) repeats SBNation's mock picks (Landrew #7, Thompson #14, Allen #28). Source: [Yahoo/Thunder On SI](https://sports.yahoo.com/articles/2027-nba-mock-draft-okc-015914125.html).
+
+### Injuries
+- **Updated: Nikolas Khamenia** (UConn, #57, Foot Injury) is now estimated at 30 games, up from 15. Hurley said Khamenia needs surgery on his left foot "in the coming days" and will be *re-evaluated* in 6–8 weeks. That is 42–56 days, which is about 21–28 games at one game per two days, before he is even cleared, and Hurley expects a return during Big East play. Source: [ESPN/AP](https://www.espn.com/mens-college-basketball/story/_/id/50464962/uconn-nik-khamenia-foot-surgery) (Nov 12).
+- No other changes.
+
+### Other fixes
+- None.
+
+Sources checked: [ESPN/AP Khamenia](https://www.espn.com/mens-college-basketball/story/_/id/50464962/uconn-nik-khamenia-foot-surgery), [ClutchPoints mock via Yahoo](https://sports.yahoo.com/articles/2027-nba-mock-draft-1st-184508571.html), [TankOdds consensus](https://tankodds.com/draft-prospects/), [On3 Mirković](https://www.on3.com/sites/orange-blue-news/news/david-mirkovic-underwent-an-emergency-appendectomy/), [Rotowire Collins](https://www.rotowire.com/cbasketball/player/christian-collins-28091), [Covers injuries](https://www.covers.com/sport/basketball/ncaab/injuries).
+
 ## 2026-11-13 — Daily update
 73 active prospects (79 entries, 6 withdrawn). One injury update: Nikolas Khamenia's foot injury now has an official diagnosis with a 6–8 week timeline; gamesRemaining updated from 10 (placeholder) to 15. No new prospects added. No rank changes met the 5-spot threshold.
 
