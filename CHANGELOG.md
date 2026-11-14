@@ -2,6 +2,50 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-14 — Daily update
+75 active prospects (81 entries, 6 withdrawn). NBADraft.net Extended Mock 2.1 (Aran Smith, Nov 13–14) is the first new board since yesterday. 2 new prospects added; 4 rank changes met the 5-spot blended threshold.
+
+### Withdrawn
+- None.
+
+### Added
+- **Kanon Catchings** (Georgia, SF, Jr., 6-9, born Aug 10 2005, Brownsburg IN) — NBADraft.net Extended Mock 2.1 #9 (verbatim), NBA Draft Room 1.0 #58 (preseason, model summary), ESPN #90. 2+ boards in top 60 → added at rank #24. BYU→Georgia transfer; was a projected 2025 1st-round pick before returning to college. Sources: [NBADraft.net 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/), [georgiadogs.com roster](https://georgiadogs.com/sports/basketball/roster/catchings-kanon/9841).
+- **Michael Ruzic** (LSU, C, Fr., 7-0 / 240 lbs, born Oct 4 2006, Zadar, Croatia) — NBADraft.net Extended Mock 2.1 #15 (verbatim), ESPN big board #56 (Nov 5 model summary). 2+ boards in top 60 → added at rank #30. Croatian 7-footer; previously played for KK Zadar and Joventut Badalona (Liga ACB). **No headshot image yet** (build warns MISSING IMAGES for these two additions). Sources: [NBADraft.net 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/), [lsusports.net roster](https://lsusports.net/sports/mb/roster/season/2026-27/player/michael-ruzic).
+
+### Rank changes
+Blending formula: (previous consensus × 2 + new board × 1) / 3. Threshold: 5+ spots.
+
+- **Alijah Arenas** ↑ #19 → #13: NBADraft.net #2 (verbatim). Blended: (38+2)/3 = 13.3 → 13. Up 6 spots.
+- **Jason Crowe Jr.** ↑ #18 → #14: NBADraft.net #4 (verbatim). Blended: (36+4)/3 = 13.3 → 14 (Arenas takes 13 as NBADraft.net tiebreak). Up 4 spots.
+- **Obinna Ekezie Jr.** ↑ #27 → #20: NBADraft.net #6 (verbatim). Blended: (54+6)/3 = 20.0. Up 7 spots.
+- **Davis Fogle** ↑ #40 → #31: NBADraft.net #14 (verbatim). Blended: (80+14)/3 = 31.3. Up 9 spots.
+
+Notable but below threshold (model summary, unconfirmed):
+- Patrick Ngongba II: NBADraft.net #25 (model summary) would blend to ~13 (down 6). Not applied — model summary only.
+- Motiejus Krivas: NBADraft.net #29 (model summary) would blend to ~17 (down 6). Not applied — model summary only.
+
+### Injuries
+- **Unchanged: Nikolas Khamenia** (UConn, #59, Foot Injury, 30g). Covers.com (Nov 14) confirms Out, foot surgery, expected back in 6-8 weeks from Nov 8. No new updates.
+- **Unchanged: Brandon McCoy Jr.** (Michigan, #12, Torn ACL, 82g). Confirmed "Out - Knee (ACL), will miss entire 2026-27 season" per Covers.
+- **Unchanged: David Mirković** (Illinois, #39, Broken Foot, 20g). Still listed Out since Oct 22.
+- **Unchanged: JT Toppin** (Texas Tech, #76, Torn ACL, 38g, withdrawn). Still Out.
+- **Note: Christian Collins** (USC, #23, Foot Injury, 10g) listed as "Questionable, undisclosed" on Covers (Oct 19 date), suggesting he may be nearing return. No explicit update found; gamesRemaining held at 10.
+
+### New boards found
+- **NBADraft.net Extended Mock Draft 2.1** (Aran Smith, Nov 13 pub / Nov 14 modified): Top 18 verbatim, 19-30 model summary. 1st round projections for all 30 teams. Source: [NBADraft.net](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/).
+
+Sources checked:
+- [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Aran Smith, Nov 13–14, 2026) — **NEW**
+- [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [Bleacher Report mock](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no update
+- [FanSided opening night mock](https://fansided.com/nba/2027-nba-mock-draft-predicted-first-round-picks-on-opening-night) (Christopher Kline, Oct 20) — no update since Oct 20
+- [CBS Sports mock](https://www.cbssports.com/nba/news/2027-nba-mock-draft-tyran-stokes-jordan-smith/) (Cameron Salerno, Jun 29) — old board, not new
+- [NBA Draft Room big board 1.0](https://nbadraftroom.com/2027-nba-draft-big-board-1-0/) (Mike, Oct 16) — preseason, used for Catchings corroboration
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 14, 2026) — no new injury updates affecting tracked prospects
+- [Tankathon big board](https://tankathon.com/big-board) — not accessible via automated fetch (noted for future checks)
+
 ## 2026-11-13 — Daily update (second check)
 Second check, later on Nov 13. The class still has 73 active prospects (79 entries, 6 withdrawn).
 

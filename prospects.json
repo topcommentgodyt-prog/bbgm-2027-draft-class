@@ -220,114 +220,6 @@
   },
   {
     "rank": 13,
-    "name": "Amari Allen",
-    "pos": "SF",
-    "hgt_in": 78,
-    "weight": 205,
-    "age_nov2026": 20.8,
-    "team": "Alabama",
-    "international": false,
-    "tags": "defender rebounder passer iq",
-    "image": "11-amari-allen.png",
-    "background": "transparent",
-    "hometown": "Green Bay, WI",
-    "born": "2006-01-26",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 14,
-    "name": "Anthony Thompson",
-    "pos": "SF",
-    "hgt_in": 81,
-    "weight": 215,
-    "age_nov2026": 18.2,
-    "team": "Ohio State",
-    "international": false,
-    "tags": "athlete defender shooter",
-    "image": "06-anthony-thompson.jpg",
-    "background": "plain",
-    "hometown": "Lebanon, OH",
-    "born": "2008-08-09",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 15,
-    "name": "Abdou Toure",
-    "pos": "SG",
-    "hgt_in": 77,
-    "weight": 215,
-    "age_nov2026": 19.2,
-    "team": "Arkansas",
-    "international": false,
-    "tags": "scorer athlete slasher",
-    "image": "22-abdou-toure.png",
-    "background": "transparent",
-    "hometown": "West Haven, CT",
-    "born": "2007-08-14",
-    "injury": null,
-    "status": "active",
-    "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5222135"
-  },
-  {
-    "rank": 16,
-    "name": "Luigi Suigo",
-    "pos": "C",
-    "hgt_in": 88,
-    "weight": 289,
-    "age_nov2026": 19.8,
-    "team": "Villanova",
-    "international": false,
-    "tags": "rimprot post rebounder strong",
-    "image": "20-luigi-suigo.png",
-    "background": "transparent",
-    "hometown": "Tradate, Italy",
-    "born": "2007-01-29",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 17,
-    "name": "Thomas Haugh",
-    "pos": "PF",
-    "hgt_in": 81,
-    "weight": 215,
-    "age_nov2026": 23.3,
-    "team": "Florida",
-    "international": false,
-    "tags": "shooter iq rebounder",
-    "image": "19-thomas-haugh.png",
-    "background": "transparent",
-    "hometown": "New Oxford, PA",
-    "born": "2003-07-07",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 18,
-    "name": "Jason Crowe Jr.",
-    "pos": "PG",
-    "hgt_in": 75,
-    "weight": 170,
-    "age_nov2026": 18.3,
-    "team": "Missouri",
-    "international": false,
-    "tags": "scorer shooter handler",
-    "image": "16-jason-crowe-jr.png",
-    "background": "transparent",
-    "hometown": "Inglewood, CA",
-    "born": "2008-07-18",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 19,
     "name": "Alijah Arenas",
     "pos": "SG",
     "hgt_in": 78,
@@ -345,7 +237,133 @@
     "notes": ""
   },
   {
+    "rank": 14,
+    "name": "Jason Crowe Jr.",
+    "pos": "PG",
+    "hgt_in": 75,
+    "weight": 170,
+    "age_nov2026": 18.3,
+    "team": "Missouri",
+    "international": false,
+    "tags": "scorer shooter handler",
+    "image": "16-jason-crowe-jr.png",
+    "background": "transparent",
+    "hometown": "Inglewood, CA",
+    "born": "2008-07-18",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "rank": 15,
+    "name": "Amari Allen",
+    "pos": "SF",
+    "hgt_in": 78,
+    "weight": 205,
+    "age_nov2026": 20.8,
+    "team": "Alabama",
+    "international": false,
+    "tags": "defender rebounder passer iq",
+    "image": "11-amari-allen.png",
+    "background": "transparent",
+    "hometown": "Green Bay, WI",
+    "born": "2006-01-26",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "rank": 16,
+    "name": "Anthony Thompson",
+    "pos": "SF",
+    "hgt_in": 81,
+    "weight": 215,
+    "age_nov2026": 18.2,
+    "team": "Ohio State",
+    "international": false,
+    "tags": "athlete defender shooter",
+    "image": "06-anthony-thompson.jpg",
+    "background": "plain",
+    "hometown": "Lebanon, OH",
+    "born": "2008-08-09",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "rank": 17,
+    "name": "Abdou Toure",
+    "pos": "SG",
+    "hgt_in": 77,
+    "weight": 215,
+    "age_nov2026": 19.2,
+    "team": "Arkansas",
+    "international": false,
+    "tags": "scorer athlete slasher",
+    "image": "22-abdou-toure.png",
+    "background": "transparent",
+    "hometown": "West Haven, CT",
+    "born": "2007-08-14",
+    "injury": null,
+    "status": "active",
+    "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5222135"
+  },
+  {
+    "rank": 18,
+    "name": "Luigi Suigo",
+    "pos": "C",
+    "hgt_in": 88,
+    "weight": 289,
+    "age_nov2026": 19.8,
+    "team": "Villanova",
+    "international": false,
+    "tags": "rimprot post rebounder strong",
+    "image": "20-luigi-suigo.png",
+    "background": "transparent",
+    "hometown": "Tradate, Italy",
+    "born": "2007-01-29",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "rank": 19,
+    "name": "Thomas Haugh",
+    "pos": "PF",
+    "hgt_in": 81,
+    "weight": 215,
+    "age_nov2026": 23.3,
+    "team": "Florida",
+    "international": false,
+    "tags": "shooter iq rebounder",
+    "image": "19-thomas-haugh.png",
+    "background": "transparent",
+    "hometown": "New Oxford, PA",
+    "born": "2003-07-07",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
     "rank": 20,
+    "name": "Obinna Ekezie Jr.",
+    "pos": "C",
+    "hgt_in": 86,
+    "weight": 240,
+    "age_nov2026": 18.5,
+    "team": "Louisville",
+    "international": false,
+    "tags": "rimprot rebounder athlete",
+    "image": "56-obinna-ekezie-jr.png",
+    "background": "transparent",
+    "hometown": "Lagos, Nigeria",
+    "born": "2008-05-08",
+    "injury": null,
+    "status": "active",
+    "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210950"
+  },
+  {
+    "rank": 21,
     "name": "Caleb Gaskins",
     "pos": "PF",
     "hgt_in": 80,
@@ -363,7 +381,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://miamihurricanes.com/sports/mbball/roster/player/caleb-gaskins"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "name": "JJ Andrews",
     "pos": "SF",
     "hgt_in": 78,
@@ -381,7 +399,7 @@
     "notes": ""
   },
   {
-    "rank": 22,
+    "rank": 23,
     "name": "Christian Collins",
     "pos": "PF",
     "hgt_in": 81,
@@ -402,7 +420,25 @@
     "notes": "2026-11-12: Has not debuted for USC; out since the summer with a foot injury (InsideUSC Oct 5; Heavy Nov 9; No Ceilings mock V.2 Nov 11). No timeline; 10 games is a placeholder. https://x.com/InsideUSC/status/2107193922535731617"
   },
   {
-    "rank": 23,
+    "rank": 24,
+    "name": "Kanon Catchings",
+    "pos": "SF",
+    "hgt_in": 81,
+    "weight": 215,
+    "age_nov2026": 21.3,
+    "team": "Georgia",
+    "international": false,
+    "tags": "athlete defender slasher",
+    "image": "69-kanon-catchings.png",
+    "background": "transparent",
+    "hometown": "Brownsburg, IN",
+    "born": "2005-08-10",
+    "injury": null,
+    "status": "active",
+    "notes": "2026-11-14: Added. BYU→Georgia transfer Jr. NBADraft.net #9 (Nov 13-14, verbatim), NBA Draft Room #58. 6-9 SF, Brownsburg HS / Overtime Elite. Sources: NBADraft.net 2.1, georgiadogs.com roster."
+  },
+  {
+    "rank": 25,
     "name": "Na'jai Hines",
     "pos": "C",
     "hgt_in": 83,
@@ -420,7 +456,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5292602"
   },
   {
-    "rank": 24,
+    "rank": 26,
     "name": "Baba Oladotun",
     "pos": "SF",
     "hgt_in": 82,
@@ -438,7 +474,7 @@
     "notes": "Headshot: 247Sports profile portrait (s3media.247sports.com/Uploads/Assets/107/440/14440107.jpeg), background removed. ESPN has no photo yet (id 5210434)."
   },
   {
-    "rank": 25,
+    "rank": 27,
     "name": "Trey McKenney",
     "pos": "SG",
     "hgt_in": 76,
@@ -456,7 +492,7 @@
     "notes": ""
   },
   {
-    "rank": 26,
+    "rank": 28,
     "name": "Hugo Yimga-Moukouri",
     "pos": "SF",
     "hgt_in": 81,
@@ -474,25 +510,7 @@
     "notes": ""
   },
   {
-    "rank": 27,
-    "name": "Obinna Ekezie Jr.",
-    "pos": "C",
-    "hgt_in": 86,
-    "weight": 240,
-    "age_nov2026": 18.5,
-    "team": "Louisville",
-    "international": false,
-    "tags": "rimprot rebounder athlete",
-    "image": "56-obinna-ekezie-jr.png",
-    "background": "transparent",
-    "hometown": "Lagos, Nigeria",
-    "born": "2008-05-08",
-    "injury": null,
-    "status": "active",
-    "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210950"
-  },
-  {
-    "rank": 28,
+    "rank": 29,
     "name": "Miikka Muurinen",
     "pos": "PF",
     "hgt_in": 83,
@@ -510,7 +528,43 @@
     "notes": ""
   },
   {
-    "rank": 29,
+    "rank": 30,
+    "name": "Michael Ruzic",
+    "pos": "C",
+    "hgt_in": 84,
+    "weight": 240,
+    "age_nov2026": 20.1,
+    "team": "LSU",
+    "international": true,
+    "tags": "rimprot rebounder post",
+    "image": "70-michael-ruzic.png",
+    "background": "transparent",
+    "hometown": "Zadar, Croatia",
+    "born": "2006-10-04",
+    "injury": null,
+    "status": "active",
+    "notes": "2026-11-14: Added. 7-0 Croatian Fr. center. Played for KK Zadar and Joventut Badalona (Liga ACB). NBADraft.net #15 (Nov 13-14, verbatim), ESPN #56. Sources: NBADraft.net 2.1, lsusports.net roster."
+  },
+  {
+    "rank": 31,
+    "name": "Davis Fogle",
+    "pos": "SG",
+    "hgt_in": 79,
+    "weight": 200,
+    "age_nov2026": 20.4,
+    "team": "Gonzaga",
+    "international": false,
+    "tags": "shooter scorer",
+    "image": "25-davis-fogle.png",
+    "background": "transparent",
+    "hometown": "Anacortes, WA",
+    "born": "2006-06-06",
+    "injury": null,
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "rank": 32,
     "name": "Tounde Yessoufou",
     "pos": "SG",
     "hgt_in": 77,
@@ -528,7 +582,7 @@
     "notes": ""
   },
   {
-    "rank": 30,
+    "rank": 33,
     "name": "Austin Goosby",
     "pos": "SG",
     "hgt_in": 77,
@@ -546,7 +600,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210802"
   },
   {
-    "rank": 31,
+    "rank": 34,
     "name": "Dame Sarr",
     "pos": "SF",
     "hgt_in": 79,
@@ -564,7 +618,7 @@
     "notes": ""
   },
   {
-    "rank": 32,
+    "rank": 35,
     "name": "Cameron Williams",
     "pos": "PF",
     "hgt_in": 83,
@@ -582,7 +636,7 @@
     "notes": ""
   },
   {
-    "rank": 33,
+    "rank": 36,
     "name": "Malachi Moreno",
     "pos": "C",
     "hgt_in": 84,
@@ -600,7 +654,7 @@
     "notes": ""
   },
   {
-    "rank": 34,
+    "rank": 37,
     "name": "Billy Richmond III",
     "pos": "SF",
     "hgt_in": 79,
@@ -618,7 +672,7 @@
     "notes": ""
   },
   {
-    "rank": 35,
+    "rank": 38,
     "name": "Alex Condon",
     "pos": "C",
     "hgt_in": 84,
@@ -636,7 +690,7 @@
     "notes": ""
   },
   {
-    "rank": 36,
+    "rank": 39,
     "name": "David Mirković",
     "pos": "PF",
     "hgt_in": 81,
@@ -657,7 +711,7 @@
     "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy"
   },
   {
-    "rank": 37,
+    "rank": 40,
     "name": "Tyler Tanner",
     "pos": "PG",
     "hgt_in": 72,
@@ -675,7 +729,7 @@
     "notes": ""
   },
   {
-    "rank": 38,
+    "rank": 41,
     "name": "Dylan Mingo",
     "pos": "PG",
     "hgt_in": 77,
@@ -693,7 +747,7 @@
     "notes": ""
   },
   {
-    "rank": 39,
+    "rank": 42,
     "name": "Matt Able",
     "pos": "SG",
     "hgt_in": 77,
@@ -711,25 +765,7 @@
     "notes": ""
   },
   {
-    "rank": 40,
-    "name": "Davis Fogle",
-    "pos": "SG",
-    "hgt_in": 79,
-    "weight": 200,
-    "age_nov2026": 20.4,
-    "team": "Gonzaga",
-    "international": false,
-    "tags": "shooter scorer",
-    "image": "25-davis-fogle.png",
-    "background": "transparent",
-    "hometown": "Anacortes, WA",
-    "born": "2006-06-06",
-    "injury": null,
-    "status": "active",
-    "notes": ""
-  },
-  {
-    "rank": 41,
+    "rank": 43,
     "name": "Stefan Vaaks",
     "pos": "SG",
     "hgt_in": 79,
@@ -747,7 +783,7 @@
     "notes": ""
   },
   {
-    "rank": 42,
+    "rank": 44,
     "name": "Arafan Diané",
     "pos": "C",
     "hgt_in": 84,
@@ -766,7 +802,7 @@
     "crop": "square"
   },
   {
-    "rank": 43,
+    "rank": 45,
     "name": "Shelton Henderson",
     "pos": "SF",
     "hgt_in": 78,
@@ -784,7 +820,7 @@
     "notes": ""
   },
   {
-    "rank": 44,
+    "rank": 46,
     "name": "Juke Harris",
     "pos": "SG",
     "hgt_in": 79,
@@ -802,7 +838,7 @@
     "notes": ""
   },
   {
-    "rank": 45,
+    "rank": 47,
     "name": "Rueben Chinyelu",
     "pos": "C",
     "hgt_in": 82,
@@ -820,7 +856,7 @@
     "notes": ""
   },
   {
-    "rank": 46,
+    "rank": 48,
     "name": "Sayon Keita",
     "pos": "C",
     "hgt_in": 84,
@@ -838,7 +874,7 @@
     "notes": ""
   },
   {
-    "rank": 47,
+    "rank": 49,
     "name": "Miles Sadler",
     "pos": "PG",
     "hgt_in": 72,
@@ -856,7 +892,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210795"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "Dash Daniels",
     "pos": "SG",
     "hgt_in": 78,
@@ -874,7 +910,7 @@
     "notes": ""
   },
   {
-    "rank": 49,
+    "rank": 51,
     "name": "Cheickh Niang",
     "pos": "SG",
     "hgt_in": 77,
@@ -892,7 +928,7 @@
     "notes": "Added 2026-11-05: ESPN big board 46 (Nov 5), B/R mock 33 (Nov 3). Bio/headshot: EuroCup (api-live.euroleague.net person 013756). Younger brother of Saliou Niang."
   },
   {
-    "rank": 50,
+    "rank": 52,
     "name": "Milan Momcilovic",
     "pos": "PF",
     "hgt_in": 81,
@@ -910,7 +946,7 @@
     "notes": ""
   },
   {
-    "rank": 51,
+    "rank": 53,
     "name": "Pryce Sandfort",
     "pos": "SF",
     "hgt_in": 79,
@@ -928,7 +964,7 @@
     "notes": ""
   },
   {
-    "rank": 52,
+    "rank": 54,
     "name": "Jeremy Fears Jr.",
     "pos": "PG",
     "hgt_in": 73,
@@ -946,7 +982,7 @@
     "notes": ""
   },
   {
-    "rank": 53,
+    "rank": 55,
     "name": "Amare Bynum",
     "pos": "PF",
     "hgt_in": 80,
@@ -964,7 +1000,7 @@
     "notes": "Added 2026-11-05: ESPN big board 49 (Nov 5), B/R mock 35 (Nov 3). Sophomore. Birth date not found; age from ESPN (19.8). Bio: https://ohiostatebuckeyes.com/sports/basketball/roster/bynum-amare/12380 Headshot: ESPN id 5196946"
   },
   {
-    "rank": 54,
+    "rank": 56,
     "name": "Flory Bidunga",
     "pos": "C",
     "hgt_in": 81,
@@ -982,7 +1018,7 @@
     "notes": ""
   },
   {
-    "rank": 55,
+    "rank": 57,
     "name": "Deron Rippey Jr.",
     "pos": "PG",
     "hgt_in": 75,
@@ -1000,7 +1036,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144476"
   },
   {
-    "rank": 56,
+    "rank": 58,
     "name": "Bryson Howard",
     "pos": "SG",
     "hgt_in": 76,
@@ -1018,7 +1054,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5287512"
   },
   {
-    "rank": 57,
+    "rank": 59,
     "name": "Nikolas Khamenia",
     "pos": "SF",
     "hgt_in": 80,
@@ -1039,7 +1075,7 @@
     "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play)."
   },
   {
-    "rank": 58,
+    "rank": 60,
     "name": "Cameron Houindo",
     "pos": "PF",
     "hgt_in": 81,
@@ -1057,7 +1093,7 @@
     "notes": ""
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "JoJo Tugler",
     "pos": "PF",
     "hgt_in": 80,
@@ -1075,7 +1111,7 @@
     "notes": ""
   },
   {
-    "rank": 60,
+    "rank": 62,
     "name": "Massamba Diop",
     "pos": "C",
     "hgt_in": 85,
@@ -1093,7 +1129,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311903"
   },
   {
-    "rank": 61,
+    "rank": 63,
     "name": "Moustapha Thiam",
     "pos": "C",
     "hgt_in": 86,
@@ -1111,7 +1147,7 @@
     "notes": ""
   },
   {
-    "rank": 62,
+    "rank": 64,
     "name": "Andrej Stojakovic",
     "pos": "SG",
     "hgt_in": 79,
@@ -1129,7 +1165,7 @@
     "notes": ""
   },
   {
-    "rank": 63,
+    "rank": 65,
     "name": "Miles Byrd",
     "pos": "SG",
     "hgt_in": 78,
@@ -1147,7 +1183,7 @@
     "notes": ""
   },
   {
-    "rank": 64,
+    "rank": 66,
     "name": "Neoklis Avdalas",
     "pos": "SF",
     "hgt_in": 81,
@@ -1165,7 +1201,7 @@
     "notes": ""
   },
   {
-    "rank": 65,
+    "rank": 67,
     "name": "Daniel Jacobsen",
     "pos": "C",
     "hgt_in": 88,
@@ -1183,7 +1219,7 @@
     "notes": ""
   },
   {
-    "rank": 66,
+    "rank": 68,
     "name": "John Blackwell",
     "pos": "SG",
     "hgt_in": 77,
@@ -1201,7 +1237,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5103630"
   },
   {
-    "rank": 67,
+    "rank": 69,
     "name": "Johann Grünloh",
     "pos": "C",
     "hgt_in": 84,
@@ -1219,7 +1255,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311844"
   },
   {
-    "rank": 68,
+    "rank": 70,
     "name": "Maximo Adams",
     "pos": "SF",
     "hgt_in": 79,
@@ -1237,7 +1273,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144522"
   },
   {
-    "rank": 69,
+    "rank": 71,
     "name": "Jacob Cofie",
     "pos": "PF",
     "hgt_in": 82,
@@ -1255,7 +1291,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/4873219"
   },
   {
-    "rank": 70,
+    "rank": 72,
     "name": "Paul McNeil Jr.",
     "pos": "SG",
     "hgt_in": 77,
@@ -1273,7 +1309,7 @@
     "notes": ""
   },
   {
-    "rank": 71,
+    "rank": 73,
     "name": "Zvonimir Ivisic",
     "pos": "C",
     "hgt_in": 86,
@@ -1291,7 +1327,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5174665"
   },
   {
-    "rank": 72,
+    "rank": 74,
     "name": "Jaxon Richardson",
     "pos": "SF",
     "hgt_in": 78,
@@ -1309,7 +1345,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144554 Birth date not found; age estimated (2026 HS class)."
   },
   {
-    "rank": 73,
+    "rank": 75,
     "name": "Klark Riethauser",
     "pos": "SF",
     "hgt_in": 80,
@@ -1327,7 +1363,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). 2026-11-12 REACTIVATED: back in the top 60 of two current mocks (No Ceilings mock V.2 #42, NBA Draft Room 2nd round #48, both Nov 11). https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2 https://nbadraftroom.com/2027-2nd-round/"
   },
   {
-    "rank": 74,
+    "rank": 76,
     "name": "JT Toppin",
     "pos": "PF",
     "hgt_in": 81,
@@ -1348,7 +1384,7 @@
     "notes": "2026-11-04: Still rehabbing a torn ACL (Feb 2026), not practicing; expected back in Big 12 play, likely Jan-Feb 2027. https://www.hoopshq.com/players/injury-watch-college-basketball 2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 75,
+    "rank": 77,
     "name": "Cayden Boozer",
     "pos": "PG",
     "hgt_in": 76,
@@ -1366,7 +1402,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 76,
+    "rank": 78,
     "name": "Elliot Cadeau",
     "pos": "PG",
     "hgt_in": 73,
@@ -1384,7 +1420,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 77,
+    "rank": 79,
     "name": "Matas Vokietaitis",
     "pos": "C",
     "hgt_in": 84,
@@ -1402,7 +1438,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 78,
+    "rank": 80,
     "name": "Tomislav Ivisic",
     "pos": "C",
     "hgt_in": 85,
@@ -1420,7 +1456,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). Boards list his twin Zvonimir (added) rather than Tomislav."
   },
   {
-    "rank": 79,
+    "rank": 81,
     "name": "Solo Ball",
     "pos": "SG",
     "hgt_in": 76,
