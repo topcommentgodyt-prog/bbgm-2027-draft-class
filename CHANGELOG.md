@@ -2,6 +2,56 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-15 — Daily update
+75 active prospects (81 entries, 6 withdrawn). One new board processed: Yahoo Sports/SBNation (Ricky O'Donnell, Nov 10). 7 rank changes met the 5-spot blended threshold. 1 injury update: David Mirković upgraded to Doubtful (out of boot, shooting again).
+
+### Withdrawn
+- None.
+
+### Added
+- None. All prospects appearing on 2+ current boards in the top 60 are already tracked.
+
+### Rank changes
+Blending formula: (previous consensus × 2 + new board × 1) / 3. Threshold: 5+ spots. Yahoo Sports is a 30-pick first-round mock, so only prospects listed in its top 30 received a new board rank.
+
+- **Austin Goosby** ↑ #33 → #26: Yahoo Sports #12. Blended: (66+12)/3 = 26.0. Up 7 spots.
+- **Davis Fogle** ↑ #31 → #27: Yahoo Sports #16. Blended: (62+16)/3 = 26.0 → assigned #27 (Goosby takes #26). Up 4–5 spots (threshold met on blended value).
+- **Malachi Moreno** ↑ #36 → #31: Yahoo Sports #21. Blended: (72+21)/3 = 31.0. Up 5 spots.
+- **Tyler Tanner** ↑ #40 → #33: Yahoo Sports #19. Blended: (80+19)/3 = 33.0. Up 7 spots.
+- **Arafan Diané** ↑ #44 → #38: Yahoo Sports #25. Blended: (88+25)/3 = 37.7. Up 6 spots.
+- **Juke Harris** ↑ #46 → #40: Yahoo Sports #27. Blended: (92+27)/3 = 39.7. Up 6 spots.
+- **Jeremy Fears Jr.** ↑ #54 → #46: Yahoo Sports #30. Blended: (108+30)/3 = 46.0. Up 8 spots.
+
+Cascade (displaced by movers, relative order preserved):
+- Baba Oladotun #26→#28, Trey McKenney #27→#29, Hugo Yimga-Moukouri #28→#30, Miikka Muurinen #29→#32, Michael Ruzic #30→#34, Tounde Yessoufou #32→#35, Dame Sarr #34→#36, Cameron Williams #35→#37, Billy Richmond III #37→#39, Alex Condon #38→#41, David Mirković #39→#42, Dylan Mingo #41→#43, Matt Able #42→#44, Stefan Vaaks #43→#45, Shelton Henderson #45→#47, Rueben Chinyelu #47→#48, Sayon Keita #48→#49, Miles Sadler #49→#50, Dash Daniels #50→#51, Cheickh Niang #51→#52, Milan Momcilovic #52→#53, Pryce Sandfort #53→#54.
+
+Notable but below threshold (small moves, only 1 board):
+- Abdou Toure: Yahoo Sports #9 would blend to 14 (up 3 from #17). Not applied — single board, below threshold.
+- Braylon Mullins: Yahoo Sports #20 would blend to ~13 (down 4 from #9). Not applied — below 5-spot threshold.
+- Na'jai Hines: Yahoo Sports #17 would blend to 22 (up 3 from #25). Not applied — below threshold.
+
+### Injuries
+- **Updated: David Mirković** (Illinois, #42, Broken Foot, 12g ← was 20g). Brad Underwood confirmed Nov 12 that Mirkovic is out of the boot, doing pool rehab and AlterG treadmill work, and shooting a basketball again. Covers.com (Nov 15) upgraded him from "Out" to "Doubtful - Foot." No return date given, but progress is positive; gamesRemaining revised from 20 to 12. Sources: [Writing Illini Nov 13](https://writingillini.com/david-mirkovic-injury-update-is-small-but-positive-for-illinois-basketball-to-get-him-back-on-the-court), [Yahoo Sports (Writing Illini syndicate)](https://sports.yahoo.com/articles/david-mirkovic-injury-small-positive-152302567.html), [Covers.com](https://www.covers.com/sport/basketball/ncaab/injuries).
+- **Unchanged: Nikolas Khamenia** (UConn, #59, Foot Injury, 30g). Out 6–8 weeks from foot surgery ~Nov 8–12. No new update since the Nov 14 entry.
+- **Unchanged: Brandon McCoy Jr.** (Michigan, #12, Torn ACL, 82g). Out for season.
+- **Unchanged: Christian Collins** (USC, #23, Foot Injury, 10g). Still "Questionable - Undisclosed" on Covers.
+- **Unchanged: JT Toppin** (Texas Tech, #76, Torn ACL, 38g, withdrawn). Still Out.
+
+### New boards found
+- **Yahoo Sports/SBNation** (Ricky O'Donnell, Nov 10, 2026): 30-pick first-round mock. This board was identified on Nov 10 but was not processed in any prior daily update — incorporated today for the first time.
+
+Sources checked:
+- [Yahoo Sports/SBNation mock draft](https://sports.yahoo.com/articles/nba-mock-draft-2027-updated-130000691.html) (Ricky O'Donnell, Nov 10, 2026) — **NEW**, first incorporated today
+- [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Aran Smith, Nov 13–14) — no update since Nov 14
+- [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [Bleacher Report mock](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Wasserman, Nov 3) — no update
+- [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found
+- [ClutchPoints mock](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops) (Bailey Bassett, Nov 9) — previously incorporated Nov 12
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Nov 4) — no update
+- [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/) — no update
+- [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 15, 2026) — Mirkovic upgraded to Doubtful; all other tracked injuries unchanged
+- [Tankathon big board](https://tankathon.com/big-board) — not accessible via automated fetch
+
 ## 2026-11-14 — Daily update
 75 active prospects (81 entries, 6 withdrawn). NBADraft.net Extended Mock 2.1 (Aran Smith, Nov 13–14) is the first new board since yesterday. 2 new prospects added; 4 rank changes met the 5-spot blended threshold.
 

@@ -456,7 +456,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5292602"
   },
   {
-    "rank": 26,
+    "rank": 28,
     "name": "Baba Oladotun",
     "pos": "SF",
     "hgt_in": 82,
@@ -474,7 +474,7 @@
     "notes": "Headshot: 247Sports profile portrait (s3media.247sports.com/Uploads/Assets/107/440/14440107.jpeg), background removed. ESPN has no photo yet (id 5210434)."
   },
   {
-    "rank": 27,
+    "rank": 29,
     "name": "Trey McKenney",
     "pos": "SG",
     "hgt_in": 76,
@@ -492,7 +492,7 @@
     "notes": ""
   },
   {
-    "rank": 28,
+    "rank": 30,
     "name": "Hugo Yimga-Moukouri",
     "pos": "SF",
     "hgt_in": 81,
@@ -510,7 +510,7 @@
     "notes": ""
   },
   {
-    "rank": 29,
+    "rank": 32,
     "name": "Miikka Muurinen",
     "pos": "PF",
     "hgt_in": 83,
@@ -528,7 +528,7 @@
     "notes": ""
   },
   {
-    "rank": 30,
+    "rank": 34,
     "name": "Michael Ruzic",
     "pos": "C",
     "hgt_in": 84,
@@ -546,7 +546,7 @@
     "notes": "2026-11-14: Added. 7-0 Croatian Fr. center. Played for KK Zadar and Joventut Badalona (Liga ACB). NBADraft.net #15 (Nov 13-14, verbatim), ESPN #56. Sources: NBADraft.net 2.1, lsusports.net roster."
   },
   {
-    "rank": 31,
+    "rank": 27,
     "name": "Davis Fogle",
     "pos": "SG",
     "hgt_in": 79,
@@ -564,7 +564,7 @@
     "notes": ""
   },
   {
-    "rank": 32,
+    "rank": 35,
     "name": "Tounde Yessoufou",
     "pos": "SG",
     "hgt_in": 77,
@@ -582,7 +582,7 @@
     "notes": ""
   },
   {
-    "rank": 33,
+    "rank": 26,
     "name": "Austin Goosby",
     "pos": "SG",
     "hgt_in": 77,
@@ -600,7 +600,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210802"
   },
   {
-    "rank": 34,
+    "rank": 36,
     "name": "Dame Sarr",
     "pos": "SF",
     "hgt_in": 79,
@@ -618,7 +618,7 @@
     "notes": ""
   },
   {
-    "rank": 35,
+    "rank": 37,
     "name": "Cameron Williams",
     "pos": "PF",
     "hgt_in": 83,
@@ -636,7 +636,7 @@
     "notes": ""
   },
   {
-    "rank": 36,
+    "rank": 31,
     "name": "Malachi Moreno",
     "pos": "C",
     "hgt_in": 84,
@@ -654,7 +654,7 @@
     "notes": ""
   },
   {
-    "rank": 37,
+    "rank": 39,
     "name": "Billy Richmond III",
     "pos": "SF",
     "hgt_in": 79,
@@ -672,7 +672,7 @@
     "notes": ""
   },
   {
-    "rank": 38,
+    "rank": 41,
     "name": "Alex Condon",
     "pos": "C",
     "hgt_in": 84,
@@ -690,7 +690,7 @@
     "notes": ""
   },
   {
-    "rank": 39,
+    "rank": 42,
     "name": "David Mirković",
     "pos": "PF",
     "hgt_in": 81,
@@ -705,13 +705,13 @@
     "born": "2006-01-06",
     "injury": {
       "type": "Broken Foot",
-      "gamesRemaining": 20
+      "gamesRemaining": 12
     },
     "status": "active",
-    "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy"
+    "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy 2026-11-15: Upgraded to Doubtful on Covers.com. Brad Underwood (Nov 12) confirmed Mirkovic is out of the boot, doing pool rehab and AlterG treadmill work, and shooting a basketball. No return date given but progress is positive. gamesRemaining revised 20→12. Sources: https://writingillini.com/david-mirkovic-injury-update-is-small-but-positive-for-illinois-basketball-to-get-him-back-on-the-court https://www.covers.com/sport/basketball/ncaab/injuries"
   },
   {
-    "rank": 40,
+    "rank": 33,
     "name": "Tyler Tanner",
     "pos": "PG",
     "hgt_in": 72,
@@ -729,7 +729,7 @@
     "notes": ""
   },
   {
-    "rank": 41,
+    "rank": 43,
     "name": "Dylan Mingo",
     "pos": "PG",
     "hgt_in": 77,
@@ -747,7 +747,7 @@
     "notes": ""
   },
   {
-    "rank": 42,
+    "rank": 44,
     "name": "Matt Able",
     "pos": "SG",
     "hgt_in": 77,
@@ -765,7 +765,7 @@
     "notes": ""
   },
   {
-    "rank": 43,
+    "rank": 45,
     "name": "Stefan Vaaks",
     "pos": "SG",
     "hgt_in": 79,
@@ -783,7 +783,7 @@
     "notes": ""
   },
   {
-    "rank": 44,
+    "rank": 38,
     "name": "Arafan Diané",
     "pos": "C",
     "hgt_in": 84,
@@ -802,7 +802,7 @@
     "crop": "square"
   },
   {
-    "rank": 45,
+    "rank": 47,
     "name": "Shelton Henderson",
     "pos": "SF",
     "hgt_in": 78,
@@ -820,7 +820,7 @@
     "notes": ""
   },
   {
-    "rank": 46,
+    "rank": 40,
     "name": "Juke Harris",
     "pos": "SG",
     "hgt_in": 79,
@@ -838,7 +838,7 @@
     "notes": ""
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Rueben Chinyelu",
     "pos": "C",
     "hgt_in": 82,
@@ -856,7 +856,7 @@
     "notes": ""
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Sayon Keita",
     "pos": "C",
     "hgt_in": 84,
@@ -874,7 +874,7 @@
     "notes": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "Miles Sadler",
     "pos": "PG",
     "hgt_in": 72,
@@ -892,7 +892,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210795"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Dash Daniels",
     "pos": "SG",
     "hgt_in": 78,
@@ -910,7 +910,7 @@
     "notes": ""
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Cheickh Niang",
     "pos": "SG",
     "hgt_in": 77,
@@ -928,7 +928,7 @@
     "notes": "Added 2026-11-05: ESPN big board 46 (Nov 5), B/R mock 33 (Nov 3). Bio/headshot: EuroCup (api-live.euroleague.net person 013756). Younger brother of Saliou Niang."
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Milan Momcilovic",
     "pos": "PF",
     "hgt_in": 81,
@@ -946,7 +946,7 @@
     "notes": ""
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "Pryce Sandfort",
     "pos": "SF",
     "hgt_in": 79,
@@ -964,7 +964,7 @@
     "notes": ""
   },
   {
-    "rank": 54,
+    "rank": 46,
     "name": "Jeremy Fears Jr.",
     "pos": "PG",
     "hgt_in": 73,
