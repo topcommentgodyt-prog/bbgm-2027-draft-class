@@ -2,6 +2,28 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-15 — Daily update (second check)
+Second check, later on Nov 15. Still 75 active prospects (81 entries, 6 withdrawn). No new board or mock since the first check. The Ultimate Big Board consensus refresh (Nov 13) only aggregates sources through Nov 11, which are already used. This check fixed the two headshots missing from yesterday's additions and one data error.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None.
+
+### Injuries
+- No changes. Mirković (12g), Collins (10g), Khamenia (30g), McCoy (82g) and Toppin (38g, withdrawn) are as set this morning. ESPN game logs show no 2026-27 appearances yet for Mirković or Collins. Source: [Covers](https://www.covers.com/sport/basketball/ncaab/injuries).
+
+### Other fixes
+- **Kanon Catchings** (#24): headshot added. Uses the ESPN transparent headshot in Georgia uniform (id 5243212). Yesterday's entry pointed to a file that didn't exist. Source: [ESPN](https://www.espn.com/mens-college-basketball/player/_/id/5243212).
+- **Michael Ruzic** (#34): headshot added. Uses the ESPN transparent headshot in LSU uniform (id 5458830). Source: [ESPN](https://www.espn.com/mens-college-basketball/player/_/id/5458830).
+- **Michael Ruzic**: `international` changed to false. He plays NCAA D1 basketball at LSU, so BBGM now shows his college.
+
+Sources checked: [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) (Nov 13), [NBA Draft Room mock](https://nbadraftroom.com/2027-nba-mock-draft/) (Nov 11, already used), [ESPN big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Nov 5), [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 15), [SI Mirković](https://www.si.com/college/illinois/brad-underwood-reveals-more-details-david-mirkovic-appendectomy).
+
 ## 2026-11-15 — Daily update
 75 active prospects (81 entries, 6 withdrawn). One new board processed: Yahoo Sports/SBNation (Ricky O'Donnell, Nov 10). 7 rank changes met the 5-spot blended threshold. 1 injury update: David Mirković upgraded to Doubtful (out of boot, shooting again).
 
