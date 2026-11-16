@@ -2,6 +2,39 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-16 — Daily update
+75 active prospects (81 entries, 6 withdrawn). No changes today. All draft boards checked on this date have already been incorporated in prior updates (most recent: Yahoo Sports/SBNation Nov 10, NBADraft.net 2.1 Nov 13–14, UBB consensus Nov 13). All injury statuses are unchanged from yesterday's second check.
+
+### Withdrawn
+- None.
+
+### Added
+- None. No new prospects found on 2+ current boards in the top 60. Collin Chandler (BYU) and Adonis Ratliff (USC) each remain on two boards (NBADraft.net 2.1 model-summary rank + B/R or NBA Draft Room), but neither has a new verbatim rank on a primary board since Nov 14. Cole Cloer (Alabama) is on only one primary board (B/R mock, Nov 3, #26).
+
+### Rank changes
+- None. No new boards were published since the Nov 15 second check.
+
+### Injuries
+- **Unchanged: Brandon McCoy Jr.** (Michigan, #12, Torn ACL, 82g). Confirmed out for the entire 2026-27 season; no new reports.
+- **Unchanged: Christian Collins** (USC, #23, Foot Injury, 10g). No new USC basketball injury updates found; still listed Questionable.
+- **Unchanged: David Mirković** (Illinois, #42, Broken Foot, 12g). Still out as of Nov 15; no return reported for the Nov 15–16 window. Expected return ~December 2026.
+- **Unchanged: Nikolas Khamenia** (UConn, #59, Foot Injury, 30g). Still out 6–8 weeks from foot surgery ~Nov 8–12; no new timeline from UConn.
+- **Unchanged: JT Toppin** (Texas Tech, #76, Torn ACL, 38g, withdrawn). Still Out.
+
+Sources checked:
+- [Bleacher Report mock draft](https://bleacherreport.com/articles/25520687-new-2027-nba-mock-draft-college-basketball-season-tips) (Jonathan Wasserman, Nov 3) — no update since Nov 3
+- [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Christopher Kline, Nov 4) — no update since Nov 4
+- [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5
+- [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/) (Adam Finkelstein, Oct 19) — no update
+- [NBA Draft Room mock](https://nbadraftroom.com/2027-nba-mock-draft/) (updated Nov 11) — no update since Nov 11; still same 30-pick list
+- [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Aran Smith, Nov 13–14) — no update since Nov 14
+- [Yahoo Sports/SBNation mock](https://sports.yahoo.com/articles/nba-mock-draft-2027-updated-130000691.html) (Ricky O'Donnell, Nov 10) — no update
+- [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) (last snapshot Nov 13) — not refreshed since Nov 13
+- [No Ceilings mock V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found; page access denied via automated fetch
+- Covers NCAAB injuries — not accessible via automated fetch (noted)
+- HoopsHQ injury watch — not accessible via automated fetch (noted)
+- Tankathon big board — not accessible via automated fetch (noted)
+
 ## 2026-11-15 — Daily update (second check)
 Second check, later on Nov 15. Still 75 active prospects (81 entries, 6 withdrawn). No new board or mock since the first check. The Ultimate Big Board consensus refresh (Nov 13) only aggregates sources through Nov 11, which are already used. This check fixed the two headshots missing from yesterday's additions and one data error.
 
