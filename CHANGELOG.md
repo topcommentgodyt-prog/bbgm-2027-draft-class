@@ -2,6 +2,24 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-16 — Daily update (second check)
+Second check, later on Nov 16. Still 75 active prospects (81 entries, 6 withdrawn). No new board or mock since the first check. One injury cleared.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+- None.
+
+### Injuries
+- **Cleared: Christian Collins** (USC, #23). Made his college debut on Sunday, Nov 15, in USC's 122-46 win over Arkansas-Pine Bluff (12 min, 2 pts, 2 ast) after missing the first games with an undisclosed (reportedly foot) injury. Covers no longer lists him as injured. Sources: [Roundtable](https://roundtable.io/sports/ncaa/usc/mbb/usc-mens-basketball-demolish-arkansas-pine-bluff-to-improve-to-4-0), [Covers USC injuries](https://www.covers.com/sport/basketball/ncaab/teams/main/usc-trojans/injuries).
+- Unchanged: McCoy (82g), Mirković (12g), Khamenia (30g), Toppin (38g, withdrawn). No new reports.
+
+Sources checked: [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) (Nov 13), [ESPN big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Nov 5), [NBADraft.net mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Nov 14), [SI draft newsfeed](https://www.si.com/nba/draft/newsfeed/2027-nba-draft-prospect-david-mirkovic-undergoes-preseason-foot-surgery-01kz9rrhw9zc), [Covers USC injuries](https://www.covers.com/sport/basketball/ncaab/teams/main/usc-trojans/injuries).
+
 ## 2026-11-16 — Daily update
 75 active prospects (81 entries, 6 withdrawn). No changes today. All draft boards checked on this date have already been incorporated in prior updates (most recent: Yahoo Sports/SBNation Nov 10, NBADraft.net 2.1 Nov 13–14, UBB consensus Nov 13). All injury statuses are unchanged from yesterday's second check.
 

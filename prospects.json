@@ -412,12 +412,9 @@
     "background": "transparent",
     "hometown": "Inglewood, CA",
     "born": "2007-09-11",
-    "injury": {
-      "type": "Foot Injury",
-      "gamesRemaining": 10
-    },
+    "injury": null,
     "status": "active",
-    "notes": "2026-11-12: Has not debuted for USC; out since the summer with a foot injury (InsideUSC Oct 5; Heavy Nov 9; No Ceilings mock V.2 Nov 11). No timeline; 10 games is a placeholder. https://x.com/InsideUSC/status/2107193922535731617"
+    "notes": "2026-11-12: Has not debuted for USC; out since the summer with a foot injury (InsideUSC Oct 5; Heavy Nov 9; No Ceilings mock V.2 Nov 11). No timeline; 10 games is a placeholder. https://x.com/InsideUSC/status/2107193922535731617 Nov 16 2026: made his collegiate debut Nov 15 vs Arkansas-Pine Bluff (12 min, 2 pts, 2 ast) after missing the first games with an undisclosed (reportedly foot) injury; injury cleared."
   },
   {
     "rank": 24,
