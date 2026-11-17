@@ -2,6 +2,30 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-17 — Daily update (second check)
+Second check, later on Nov 17. Bleacher Report published a new two-round mock today (Jonathan Wasserman, Nov 17; picks 1–46 readable). Two players added and one reinstated. Now 78 active prospects (83 entries, 5 withdrawn).
+
+### Withdrawn
+- None.
+
+### Added
+- **Jordan Scott** (Michigan State, SF, #50). The 6-8 sophomore wing is #28 in B/R's new mock. He is also in the Ultimate Big Board consensus (#59, from one source at pick 36) and was about #52 on FanSided's Nov 4 top 60. Sources: [B/R mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps), [UBB consensus](https://ultimatebigboard.com/nba/2027/), [MSU roster](https://msuspartans.com/sports/mens-basketball/roster/jordan-scott/16449).
+- **Kayden Mingo** (Baylor, PG, #58). The 6-3 Penn State transfer is Dylan Mingo's older brother. He is #38 in B/R's mock and in the second round of No Ceilings' mock V.2 (Nov 11), so he is now on two current boards. Sources: [B/R mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps), [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2), [Baylor roster](https://baylorbears.com/sports/mens-basketball/roster/kayden-mingo/15667).
+- **Matas Vokietaitis** (Texas, C) is active again at #55. He was withdrawn on Nov 4 after dropping off the boards. He is now #37 in B/R's mock and #28 at NBA Draft Room (Nov 11), and the UBB consensus has him at #54 (6 of 13 sources). Sources: [B/R mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps), [UBB consensus](https://ultimatebigboard.com/nba/2027/).
+- Not added: Sam Lewis (Virginia, B/R #36), Paulius Murauskas (Arizona State, B/R #40), Alvaro Folgueiras (Louisville, B/R #42) and Mason Falslev (Utah State, B/R #46) are each on only one current board.
+
+### Rank changes
+- None by consensus. The three entries above push everyone from #50 down by one to three spots. B/R's outliers (Davis Fogle #11, Alijah Arenas #7, Miles Sadler #21) come from one outlet, so they aren't used.
+
+### Injuries
+- **New: Jordan Scott** (Michigan State, #50). Right shoulder "stinger" on Nov 13 vs Northern Iowa. Tom Izzo called him a good bet to play Nov 17 at Tennessee. Set to Shoulder Stinger, 1 game. Sources: [Yahoo/AP](https://sports.yahoo.com/articles/no-5-michigan-state-forward-031712170.html), [Yahoo/SI](https://sports.yahoo.com/articles/msus-izzo-shares-injury-jordan-191147125.html).
+- Unchanged: McCoy (Torn ACL, 82g); Mirković (Broken Foot, 12g; out of his boot and shooting, but still out and expected to miss Duke, with no timetable; [SI](https://www.si.com/college/illinois/basketball/illinois-coach-brad-underwood-latest-david-mirkovic-recovery)); Khamenia (Foot Injury, 30g; out 6–8 weeks after surgery, no new update; [CBS](https://www.cbssports.com/college-basketball/news/nik-khamenia-foot-injury-uconn-basketball/)); Toppin (withdrawn).
+
+### Other fixes
+- Corrected the first Nov 17 entry below. The SI mock it used is real (Derek Parker, Nov 16), and its rank moves match the article (Moreno 13, Goosby 14, Keita 17, Yimga-Moukouri 19, Thompson absent). But it listed wrong teams and positions for those five players, and its source link was a 404. prospects.json was not affected. Source: [SI mock](https://www.si.com/nba/draft/newsfeed/nba-mock-draft-projecting-the-2027-nba-draft-s-first-round-after-college-debuts).
+
+Sources checked: [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) (Nov 17), [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) (refreshed Nov 16, sources through Nov 10), [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2), [NBA Draft Room](https://nbadraftroom.com/2027-nba-mock-draft/), [Tankathon](https://www.tankathon.com/mock-draft), [CBS mock](https://www.cbssports.com/nba/draft/mock-draft/), [ClutchPoints](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops), [SI injury newsfeed](https://www.si.com/nba/draft/newsfeed/2027-nba-draft-prospect-killyan-toure-suffers-preseason-injury-01m0qyvxhfen), [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries).
+
 ## 2026-11-17 — Daily update
 75 active prospects (81 entries, 6 withdrawn). 5 rank changes from new SI/Yahoo Sports mock (Derek Parker, Nov 16, 2026). No injury changes.
 
@@ -14,11 +38,11 @@ Newest first. Each daily check adds an entry, even when nothing changed.
 ### Rank changes
 Applied SI/Yahoo Sports 30-pick mock (Derek Parker, Nov 16, 2026) using blending formula `(prev × 2 + new) / 3`, threshold ≥ 5 spots. Injured players exempt from missing-board penalty.
 
-- **UP 9: Malachi Moreno** (FAU, SF, #31 → #22). SI rank: #13. Blended: (31×2+13)/3 = 25.0 → moved from #31 to #22.
-- **UP 7: Sayon Keita** (Baylor, PF, #49 → #42). SI rank: #17. Blended: (49×2+17)/3 = 38.3 → moved from #49 to #42.
-- **UP 6: Austin Goosby** (Duke, SF, #26 → #20). SI rank: #14. Blended: (26×2+14)/3 = 22.0 → moved from #26 to #20.
-- **UP 5: Hugo Yimga-Moukouri** (Gonzaga, C, #30 → #25). SI rank: #19. Blended: (30×2+19)/3 = 26.3 → moved from #30 to #25.
-- **DOWN 5: Anthony Thompson** (Tennessee, SF, #16 → #21). Not in SI 30-pick board (missing penalty = 35). Blended: (16×2+35)/3 = 22.3 → moved from #16 to #21.
+- **UP 9: Malachi Moreno** (Kentucky, C, #31 → #22). SI rank: #13. Blended: (31×2+13)/3 = 25.0 → moved from #31 to #22.
+- **UP 7: Sayon Keita** (North Carolina, C, #49 → #42). SI rank: #17. Blended: (49×2+17)/3 = 38.3 → moved from #49 to #42.
+- **UP 6: Austin Goosby** (Texas, SG, #26 → #20). SI rank: #14. Blended: (26×2+14)/3 = 22.0 → moved from #26 to #20.
+- **UP 5: Hugo Yimga-Moukouri** (Nanterre 92, SF, #30 → #25). SI rank: #19. Blended: (30×2+19)/3 = 26.3 → moved from #30 to #25.
+- **DOWN 5: Anthony Thompson** (Ohio State, SF, #16 → #21). Not in SI 30-pick board (missing penalty = 35). Blended: (16×2+35)/3 = 22.3 → moved from #16 to #21.
 
 ### Injuries
 - **Unchanged: Brandon McCoy Jr.** (Michigan, #12, Torn ACL, 82g). Out for season; no new reports.
@@ -27,7 +51,7 @@ Applied SI/Yahoo Sports 30-pick mock (Derek Parker, Nov 16, 2026) using blending
 - **Unchanged: JT Toppin** (Texas Tech, #76 withdrawn, Torn ACL, 38g). Still out.
 
 Sources checked:
-- [SI/Yahoo Sports mock](https://sports.yahoo.com/articles/2027-nba-mock-draft-si-derek-parker-nov-16/) (Derek Parker, Nov 16, 2026) — **new board applied**
+- [SI/Yahoo Sports mock](https://www.si.com/nba/draft/newsfeed/nba-mock-draft-projecting-the-2027-nba-draft-s-first-round-after-college-debuts) (Derek Parker, Nov 16, 2026) — **new board applied**
 - [NBADraft.net](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Nov 14) — inaccessible via automated fetch
 - Covers NCAAB injuries — inaccessible via automated fetch
 

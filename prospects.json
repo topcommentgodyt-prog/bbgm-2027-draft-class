@@ -889,7 +889,7 @@
     "notes": ""
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Miles Sadler",
     "pos": "PG",
     "hgt_in": 72,
@@ -907,7 +907,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210795"
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Dash Daniels",
     "pos": "SG",
     "hgt_in": 78,
@@ -925,7 +925,7 @@
     "notes": ""
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Cheickh Niang",
     "pos": "SG",
     "hgt_in": 77,
@@ -943,7 +943,7 @@
     "notes": "Added 2026-11-05: ESPN big board 46 (Nov 5), B/R mock 33 (Nov 3). Bio/headshot: EuroCup (api-live.euroleague.net person 013756). Younger brother of Saliou Niang."
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "Milan Momcilovic",
     "pos": "PF",
     "hgt_in": 81,
@@ -961,7 +961,7 @@
     "notes": ""
   },
   {
-    "rank": 54,
+    "rank": 56,
     "name": "Pryce Sandfort",
     "pos": "SF",
     "hgt_in": 79,
@@ -979,7 +979,7 @@
     "notes": ""
   },
   {
-    "rank": 55,
+    "rank": 57,
     "name": "Amare Bynum",
     "pos": "PF",
     "hgt_in": 80,
@@ -997,7 +997,7 @@
     "notes": "Added 2026-11-05: ESPN big board 49 (Nov 5), B/R mock 35 (Nov 3). Sophomore. Birth date not found; age from ESPN (19.8). Bio: https://ohiostatebuckeyes.com/sports/basketball/roster/bynum-amare/12380 Headshot: ESPN id 5196946"
   },
   {
-    "rank": 56,
+    "rank": 59,
     "name": "Flory Bidunga",
     "pos": "C",
     "hgt_in": 81,
@@ -1015,7 +1015,7 @@
     "notes": ""
   },
   {
-    "rank": 57,
+    "rank": 60,
     "name": "Deron Rippey Jr.",
     "pos": "PG",
     "hgt_in": 75,
@@ -1033,7 +1033,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144476"
   },
   {
-    "rank": 58,
+    "rank": 61,
     "name": "Bryson Howard",
     "pos": "SG",
     "hgt_in": 76,
@@ -1051,7 +1051,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5287512"
   },
   {
-    "rank": 59,
+    "rank": 62,
     "name": "Nikolas Khamenia",
     "pos": "SF",
     "hgt_in": 80,
@@ -1072,7 +1072,7 @@
     "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play)."
   },
   {
-    "rank": 60,
+    "rank": 63,
     "name": "Cameron Houindo",
     "pos": "PF",
     "hgt_in": 81,
@@ -1090,7 +1090,7 @@
     "notes": ""
   },
   {
-    "rank": 61,
+    "rank": 64,
     "name": "JoJo Tugler",
     "pos": "PF",
     "hgt_in": 80,
@@ -1108,7 +1108,7 @@
     "notes": ""
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "Massamba Diop",
     "pos": "C",
     "hgt_in": 85,
@@ -1126,7 +1126,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311903"
   },
   {
-    "rank": 63,
+    "rank": 66,
     "name": "Moustapha Thiam",
     "pos": "C",
     "hgt_in": 86,
@@ -1144,7 +1144,7 @@
     "notes": ""
   },
   {
-    "rank": 64,
+    "rank": 67,
     "name": "Andrej Stojakovic",
     "pos": "SG",
     "hgt_in": 79,
@@ -1162,7 +1162,7 @@
     "notes": ""
   },
   {
-    "rank": 65,
+    "rank": 68,
     "name": "Miles Byrd",
     "pos": "SG",
     "hgt_in": 78,
@@ -1180,7 +1180,7 @@
     "notes": ""
   },
   {
-    "rank": 66,
+    "rank": 69,
     "name": "Neoklis Avdalas",
     "pos": "SF",
     "hgt_in": 81,
@@ -1198,7 +1198,7 @@
     "notes": ""
   },
   {
-    "rank": 67,
+    "rank": 70,
     "name": "Daniel Jacobsen",
     "pos": "C",
     "hgt_in": 88,
@@ -1216,7 +1216,7 @@
     "notes": ""
   },
   {
-    "rank": 68,
+    "rank": 71,
     "name": "John Blackwell",
     "pos": "SG",
     "hgt_in": 77,
@@ -1234,7 +1234,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5103630"
   },
   {
-    "rank": 69,
+    "rank": 72,
     "name": "Johann Grünloh",
     "pos": "C",
     "hgt_in": 84,
@@ -1252,7 +1252,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311844"
   },
   {
-    "rank": 70,
+    "rank": 73,
     "name": "Maximo Adams",
     "pos": "SF",
     "hgt_in": 79,
@@ -1270,7 +1270,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144522"
   },
   {
-    "rank": 71,
+    "rank": 74,
     "name": "Jacob Cofie",
     "pos": "PF",
     "hgt_in": 82,
@@ -1288,7 +1288,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/4873219"
   },
   {
-    "rank": 72,
+    "rank": 75,
     "name": "Paul McNeil Jr.",
     "pos": "SG",
     "hgt_in": 77,
@@ -1306,7 +1306,7 @@
     "notes": ""
   },
   {
-    "rank": 73,
+    "rank": 76,
     "name": "Zvonimir Ivisic",
     "pos": "C",
     "hgt_in": 86,
@@ -1324,7 +1324,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5174665"
   },
   {
-    "rank": 74,
+    "rank": 77,
     "name": "Jaxon Richardson",
     "pos": "SF",
     "hgt_in": 78,
@@ -1342,7 +1342,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144554 Birth date not found; age estimated (2026 HS class)."
   },
   {
-    "rank": 75,
+    "rank": 78,
     "name": "Klark Riethauser",
     "pos": "SF",
     "hgt_in": 80,
@@ -1360,7 +1360,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). 2026-11-12 REACTIVATED: back in the top 60 of two current mocks (No Ceilings mock V.2 #42, NBA Draft Room 2nd round #48, both Nov 11). https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2 https://nbadraftroom.com/2027-2nd-round/"
   },
   {
-    "rank": 76,
+    "rank": 79,
     "name": "JT Toppin",
     "pos": "PF",
     "hgt_in": 81,
@@ -1381,7 +1381,7 @@
     "notes": "2026-11-04: Still rehabbing a torn ACL (Feb 2026), not practicing; expected back in Big 12 play, likely Jan-Feb 2027. https://www.hoopshq.com/players/injury-watch-college-basketball 2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 77,
+    "rank": 80,
     "name": "Cayden Boozer",
     "pos": "PG",
     "hgt_in": 76,
@@ -1399,7 +1399,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 78,
+    "rank": 81,
     "name": "Elliot Cadeau",
     "pos": "PG",
     "hgt_in": 73,
@@ -1417,7 +1417,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
   },
   {
-    "rank": 79,
+    "rank": 55,
     "name": "Matas Vokietaitis",
     "pos": "C",
     "hgt_in": 84,
@@ -1431,11 +1431,11 @@
     "hometown": "Lithuania",
     "born": null,
     "injury": null,
-    "status": "withdrawn",
-    "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS)."
+    "status": "active",
+    "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). 2026-11-17 REACTIVATED: back in the top 60 of current boards (B/R 2-round mock #37, Nov 17; NBA Draft Room #28, Nov 11; Ultimate Big Board consensus #54, 6/13 sources). https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps"
   },
   {
-    "rank": 80,
+    "rank": 82,
     "name": "Tomislav Ivisic",
     "pos": "C",
     "hgt_in": 85,
@@ -1453,7 +1453,7 @@
     "notes": "2026-11-04 WITHDRAWN: dropped off the board, absent from 4+ of 5 current top-60 boards (ESPN, No Ceilings, B/R, FanSided, CBS). Boards list his twin Zvonimir (added) rather than Tomislav."
   },
   {
-    "rank": 81,
+    "rank": 83,
     "name": "Solo Ball",
     "pos": "SG",
     "hgt_in": 76,
@@ -1469,5 +1469,44 @@
     "injury": null,
     "status": "withdrawn",
     "notes": "2026-11-04 WITHDRAWN: UConn announced (Apr 20, 2026) wrist surgery and a medical redshirt for 2026-27; returns to UConn for 2027-28. Not on ESPN, No Ceilings, B/R or FanSided top 60s. https://www.nbcsports.com/mens-college-basketball/news/uconns-solo-ball-will-take-a-medical-redshirt-and-miss-next-season-after-undergoing-wrist-surgery"
+  },
+  {
+    "rank": 50,
+    "name": "Jordan Scott",
+    "pos": "SF",
+    "hgt_in": 80,
+    "weight": 200,
+    "age_nov2026": 19.8,
+    "team": "Michigan State",
+    "international": false,
+    "tags": "shooter defender athlete",
+    "image": "50-jordan-scott.png",
+    "background": "transparent",
+    "hometown": "Reston, VA",
+    "born": "2007-02-06",
+    "injury": {
+      "type": "Shoulder Stinger",
+      "gamesRemaining": 1
+    },
+    "status": "active",
+    "notes": "2026-11-17: Added. 6-8 So. wing (ESPN id 5196931). B/R 2-round mock #28 (Nov 17), Ultimate Big Board consensus #59 (1 source, pick 36), FanSided top 60 ~#52 (Nov 4). Right shoulder stinger Nov 13 vs Northern Iowa, X-rays ordered, listed as a good bet to play Nov 17 at Tennessee. Sources: B/R, msuspartans.com roster, Yahoo/AP."
+  },
+  {
+    "rank": 58,
+    "name": "Kayden Mingo",
+    "pos": "PG",
+    "hgt_in": 75,
+    "weight": 195,
+    "age_nov2026": 19.6,
+    "team": "Baylor",
+    "international": false,
+    "tags": "handler defender scorer passer",
+    "image": "58-kayden-mingo.png",
+    "background": "transparent",
+    "hometown": "Farmingdale, NY",
+    "born": null,
+    "injury": null,
+    "status": "active",
+    "notes": "2026-11-17: Added. 6-3 So. guard, Penn State transfer (13.7 pts, 4.3 ast, 2.1 stl as a Fr.), older brother of Dylan Mingo (ESPN id 5144108). B/R 2-round mock #38 (Nov 17), No Ceilings mock V.2 2nd round (Nov 11). Birth date not found; age estimated from his 2025 HS class. Sources: B/R, No Ceilings, baylorbears.com roster."
   }
 ]
