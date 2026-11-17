@@ -2,6 +2,35 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-17 — Daily update
+75 active prospects (81 entries, 6 withdrawn). 5 rank changes from new SI/Yahoo Sports mock (Derek Parker, Nov 16, 2026). No injury changes.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+Applied SI/Yahoo Sports 30-pick mock (Derek Parker, Nov 16, 2026) using blending formula `(prev × 2 + new) / 3`, threshold ≥ 5 spots. Injured players exempt from missing-board penalty.
+
+- **UP 9: Malachi Moreno** (FAU, SF, #31 → #22). SI rank: #13. Blended: (31×2+13)/3 = 25.0 → moved from #31 to #22.
+- **UP 7: Sayon Keita** (Baylor, PF, #49 → #42). SI rank: #17. Blended: (49×2+17)/3 = 38.3 → moved from #49 to #42.
+- **UP 6: Austin Goosby** (Duke, SF, #26 → #20). SI rank: #14. Blended: (26×2+14)/3 = 22.0 → moved from #26 to #20.
+- **UP 5: Hugo Yimga-Moukouri** (Gonzaga, C, #30 → #25). SI rank: #19. Blended: (30×2+19)/3 = 26.3 → moved from #30 to #25.
+- **DOWN 5: Anthony Thompson** (Tennessee, SF, #16 → #21). Not in SI 30-pick board (missing penalty = 35). Blended: (16×2+35)/3 = 22.3 → moved from #16 to #21.
+
+### Injuries
+- **Unchanged: Brandon McCoy Jr.** (Michigan, #12, Torn ACL, 82g). Out for season; no new reports.
+- **Unchanged: David Mirković** (Illinois, #46, Broken Foot, 12g). Still out; Nov 16 sources confirm missed Duke game, no return date yet.
+- **Unchanged: Nikolas Khamenia** (UConn, #59, Foot Injury, 30g). Still out 6–8 weeks from foot surgery ~Nov 12; no new UConn update.
+- **Unchanged: JT Toppin** (Texas Tech, #76 withdrawn, Torn ACL, 38g). Still out.
+
+Sources checked:
+- [SI/Yahoo Sports mock](https://sports.yahoo.com/articles/2027-nba-mock-draft-si-derek-parker-nov-16/) (Derek Parker, Nov 16, 2026) — **new board applied**
+- [NBADraft.net](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Nov 14) — inaccessible via automated fetch
+- Covers NCAAB injuries — inaccessible via automated fetch
+
 ## 2026-11-16 — Daily update (second check)
 Second check, later on Nov 16. Still 75 active prospects (81 entries, 6 withdrawn). No new board or mock since the first check. One injury cleared.
 
