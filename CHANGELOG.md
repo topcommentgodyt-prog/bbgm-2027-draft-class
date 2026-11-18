@@ -2,6 +2,13 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-18 — Daily update (second check)
+No changes. 78 active prospects (83 entries, 5 withdrawn).
+
+- Tyran Stokes (#1, Kansas) stays at Lower Leg Injury, 1 game. Kansas has not released his MRI result, a diagnosis, or whether he plays West Virginia tonight in the Players Era semifinal. Sources: [Voice of Motown](https://voiceofmotown.com/kansas-tyran-stokes-injury-wvu-semifinal-2026/), [KSHB](https://www.kshb.com/news/local-news/missouri/kansas-jayhawks-star-tyran-stokes-leaves-game-with-knee-injury-after-win-over-unlv), [Zagsblog](https://www.zagsblog.com/2026/11/18/projected-no-1-pick-tyran-stokes-to-undergo-mri/).
+- Tankathon's [mock draft](https://www.tankathon.com/mock-draft) and [big board](https://www.tankathon.com/big-board) rankings were last updated 4 days ago and are already reflected. Coen Carr (Michigan State, mock #57) and Pavle Backo (Mega Basket, mock #60) are each on only one current board, so they were not added.
+- No new withdrawals or injuries found. Sources: [SI injury roundup](https://www.si.com/nba/draft/newsfeed/multiple-preseason-injuries-already-impacting-2027-nba-draft-class-01m1m9fd21jh), [CBS mock](https://www.cbssports.com/nba/draft/mock-draft/), [NBA Draft Room](https://nbadraftroom.com/2027-nba-mock-draft/), [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2).
+
 ## 2026-11-18 — Daily update
 78 active prospects (83 entries, 5 withdrawn). Two previously-missed boards applied today (SBN/Yahoo Sports Nov 10 mock, NBADraft.net Extended 2.1 Nov 13). Nine blended rank changes of 5+ spots. Breaking: Tyran Stokes (#1) left Kansas vs. UNLV with a lower-leg injury and will get an MRI; set to Lower Leg Injury, 1 game. Jordan Scott shoulder stinger cleared.
 
