@@ -2,6 +2,35 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-18 — Daily update
+78 active prospects (83 entries, 5 withdrawn). Two previously-missed boards applied today (SBN/Yahoo Sports Nov 10 mock, NBADraft.net Extended 2.1 Nov 13). Nine blended rank changes of 5+ spots. Breaking: Tyran Stokes (#1) left Kansas vs. UNLV with a lower-leg injury and will get an MRI; set to Lower Leg Injury, 1 game. Jordan Scott shoulder stinger cleared.
+
+### Withdrawn
+- None.
+
+### Added
+- None.
+
+### Rank changes
+Applied two previously-missed boards: SBN/Yahoo Sports 30-pick mock (Ricky O'Donnell, Nov 10, 2026; missing penalty = 35) and NBADraft.net Extended Mock 2.1 (Aran Smith, Nov 13, 2026; confirmed top-30 data only; missing penalty = 35). Formula: (prev × 2 + each board) / (2 + count). Threshold ≥ 5 blended spots; missing-board penalty applied as downward pull only (penalty > current rank). Injured players exempt from missing-board penalty (McCoy, Mirković, Khamenia, Toppin).
+
+- **UP 6: Davis Fogle** (Gonzaga, SG, #28 → #22). SBN: 16, NBADraft.net: 14. Blended: (56+16+14)/4 = 21.5.
+- **UP 6: Michael Ruzic** (LSU, C, #36 → #30). NBADraft.net: 15. Blended: (72+15)/3 = 29.0.
+- **UP 5: Tyler Tanner** (Boise State, SF, #35 → #31). SBN: 19. Blended: (70+19+35)/4 = 31.0 → (70+19)/3 = 29.7.
+- **UP 3: Arafan Diané** (St. John's, SF, #40 → #37). SBN: 25. Blended: (80+25+35)/4 = 35.0.
+- **UP 3: Matt Able** (Tennessee, SG, #41 → #38). NBADraft.net: 24. Blended: (82+24+35)/4 = 35.3.
+- **UP 3: Juke Harris** (Georgetown, SG, #43 → #40). SBN: 27. Blended: (86+27+35)/4 = 37.0.
+- **UP 2: Alex Condon** (Florida, C, #45 → #43). NBADraft.net: 27. Blended: (90+27+35)/4 = 38.0.
+- **UP 6: Dash Daniels** (SE Melbourne Phoenix, SG, #52 → #46). NBADraft.net: 28. Blended: (104+28)/3 = 44.0.
+- **UP 18: Klark Riethauser** (Élan Chalon, SF, #78 → #60). NBADraft.net: 22. Blended: (156+22)/3 = 59.3.
+
+### Injuries
+- **NEW: Tyran Stokes** (Kansas, SF, #1). Left game vs. UNLV at 18:39 of 2nd half with lower-leg injury; walked to locker room under own power. Bill Self: "It's a lower leg deal. He lost strength in his leg. That's why he sat down. It didn't look bad to me." MRI scheduled; severity unclear. Kansas next plays Nov 23 vs Denver. Set to Lower Leg Injury, 1 game (placeholder pending MRI). Sources: [CBS Sports](https://www.cbssports.com/college-basketball/news/kansas-tyran-stokes-projected-no-1-nba-draft-pick-leg-injury-mri/), [Yahoo Sports/ClutchPoints](https://sports.yahoo.com/articles/bill-self-gives-tyran-stokes-075516993.html) (Nov 18).
+- **CLEARED: Jordan Scott** (Michigan State, SF, #51). Shoulder stinger cleared; Michigan State played at Tennessee on Nov 17 — the 1 game remaining has elapsed. No reports of recurrence. Injury cleared.
+- Unchanged: McCoy (Torn ACL, 82g); Mirković (Broken Foot, 12g); Khamenia (Foot Injury, 30g); Toppin (withdrawn, Torn ACL 38g).
+
+Sources checked: [SBN/Yahoo Sports 30-pick mock](https://sports.yahoo.com/articles/nba-mock-draft-2027-updated-130000691.html) (Ricky O'Donnell, Nov 10) — **NEW, applied**; [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Aran Smith, Nov 13) — **NEW, applied** (was inaccessible in prior runs); [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) (Wasserman, Nov 17) — no new update; [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/) — no update; [Tankathon big board](https://www.tankathon.com/big-board) — no update; [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) — no update; [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 18) — confirms McCoy ACL, Mirković foot, Khamenia foot; [CBS Sports injury news](https://www.cbssports.com/college-basketball/news/kansas-tyran-stokes-projected-no-1-nba-draft-pick-leg-injury-mri/) (Nov 18) — Stokes MRI confirmed; [Yahoo Sports](https://sports.yahoo.com/articles/bill-self-gives-tyran-stokes-075516993.html) (Nov 18) — Self injury quotes.
+
 ## 2026-11-17 — Daily update (second check)
 Second check, later on Nov 17. Bleacher Report published a new two-round mock today (Jonathan Wasserman, Nov 17; picks 1–46 readable). Two players added and one reinstated. Now 78 active prospects (83 entries, 5 withdrawn).
 

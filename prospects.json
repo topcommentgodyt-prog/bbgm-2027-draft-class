@@ -13,9 +13,12 @@
     "background": "transparent",
     "hometown": "Louisville, KY",
     "born": "2007-10-12",
-    "injury": null,
+    "injury": {
+      "type": "Lower Leg Injury",
+      "gamesRemaining": 1
+    },
     "status": "active",
-    "notes": ""
+    "notes": " 2026-11-18: Left game vs UNLV at 18:39 of 2nd half with lower leg injury; walked to locker room under own power. Bill Self: \"It's a lower leg deal. He lost strength in his leg. That's why he sat down. It didn't look bad to me.\" MRI scheduled post-game; severity unclear. Kansas next plays Nov 23 vs Denver. Sources: https://www.cbssports.com/college-basketball/news/kansas-tyran-stokes-projected-no-1-nba-draft-pick-leg-injury-mri/ https://sports.yahoo.com/articles/tyran-stokes-exits-kansas-basketball-053740791.html"
   },
   {
     "rank": 2,
@@ -381,7 +384,7 @@
     "notes": ""
   },
   {
-    "rank": 22,
+    "rank": 23,
     "name": "Malachi Moreno",
     "pos": "C",
     "hgt_in": 84,
@@ -399,7 +402,7 @@
     "notes": ""
   },
   {
-    "rank": 23,
+    "rank": 24,
     "name": "Caleb Gaskins",
     "pos": "PF",
     "hgt_in": 80,
@@ -417,7 +420,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://miamihurricanes.com/sports/mbball/roster/player/caleb-gaskins"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "name": "JJ Andrews",
     "pos": "SF",
     "hgt_in": 78,
@@ -435,7 +438,7 @@
     "notes": ""
   },
   {
-    "rank": 25,
+    "rank": 26,
     "name": "Hugo Yimga-Moukouri",
     "pos": "SF",
     "hgt_in": 81,
@@ -453,7 +456,7 @@
     "notes": ""
   },
   {
-    "rank": 26,
+    "rank": 27,
     "name": "Christian Collins",
     "pos": "PF",
     "hgt_in": 81,
@@ -471,7 +474,7 @@
     "notes": "2026-11-12: Has not debuted for USC; out since the summer with a foot injury (InsideUSC Oct 5; Heavy Nov 9; No Ceilings mock V.2 Nov 11). No timeline; 10 games is a placeholder. https://x.com/InsideUSC/status/2107193922535731617 Nov 16 2026: made his collegiate debut Nov 15 vs Arkansas-Pine Bluff (12 min, 2 pts, 2 ast) after missing the first games with an undisclosed (reportedly foot) injury; injury cleared."
   },
   {
-    "rank": 27,
+    "rank": 28,
     "name": "Kanon Catchings",
     "pos": "SF",
     "hgt_in": 81,
@@ -489,7 +492,7 @@
     "notes": "2026-11-14: Added. BYU→Georgia transfer Jr. NBADraft.net #9 (Nov 13-14, verbatim), NBA Draft Room #58. 6-9 SF, Brownsburg HS / Overtime Elite. Sources: NBADraft.net 2.1, georgiadogs.com roster."
   },
   {
-    "rank": 28,
+    "rank": 22,
     "name": "Davis Fogle",
     "pos": "SG",
     "hgt_in": 79,
@@ -525,7 +528,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5292602"
   },
   {
-    "rank": 30,
+    "rank": 32,
     "name": "Trey McKenney",
     "pos": "SG",
     "hgt_in": 76,
@@ -543,7 +546,7 @@
     "notes": ""
   },
   {
-    "rank": 31,
+    "rank": 33,
     "name": "Baba Oladotun",
     "pos": "SF",
     "hgt_in": 82,
@@ -561,7 +564,7 @@
     "notes": "Headshot: 247Sports profile portrait (s3media.247sports.com/Uploads/Assets/107/440/14440107.jpeg), background removed. ESPN has no photo yet (id 5210434)."
   },
   {
-    "rank": 32,
+    "rank": 34,
     "name": "Dame Sarr",
     "pos": "SF",
     "hgt_in": 79,
@@ -579,7 +582,7 @@
     "notes": ""
   },
   {
-    "rank": 33,
+    "rank": 35,
     "name": "Miikka Muurinen",
     "pos": "PF",
     "hgt_in": 83,
@@ -597,7 +600,7 @@
     "notes": ""
   },
   {
-    "rank": 34,
+    "rank": 36,
     "name": "Cameron Williams",
     "pos": "PF",
     "hgt_in": 83,
@@ -615,7 +618,7 @@
     "notes": ""
   },
   {
-    "rank": 35,
+    "rank": 31,
     "name": "Tyler Tanner",
     "pos": "PG",
     "hgt_in": 72,
@@ -633,7 +636,7 @@
     "notes": ""
   },
   {
-    "rank": 36,
+    "rank": 30,
     "name": "Michael Ruzic",
     "pos": "C",
     "hgt_in": 84,
@@ -651,7 +654,7 @@
     "notes": "2026-11-14: Added. 7-0 Croatian Fr. center. Played for KK Zadar and Joventut Badalona (Liga ACB). NBADraft.net #15 (Nov 13-14, verbatim), ESPN #56. Sources: NBADraft.net 2.1, lsusports.net roster."
   },
   {
-    "rank": 37,
+    "rank": 39,
     "name": "Billy Richmond III",
     "pos": "SF",
     "hgt_in": 79,
@@ -669,7 +672,7 @@
     "notes": ""
   },
   {
-    "rank": 38,
+    "rank": 41,
     "name": "Tounde Yessoufou",
     "pos": "SG",
     "hgt_in": 77,
@@ -687,7 +690,7 @@
     "notes": ""
   },
   {
-    "rank": 39,
+    "rank": 42,
     "name": "Dylan Mingo",
     "pos": "PG",
     "hgt_in": 77,
@@ -705,7 +708,7 @@
     "notes": ""
   },
   {
-    "rank": 40,
+    "rank": 37,
     "name": "Arafan Diané",
     "pos": "C",
     "hgt_in": 84,
@@ -724,7 +727,7 @@
     "crop": "square"
   },
   {
-    "rank": 41,
+    "rank": 38,
     "name": "Matt Able",
     "pos": "SG",
     "hgt_in": 77,
@@ -742,7 +745,7 @@
     "notes": ""
   },
   {
-    "rank": 42,
+    "rank": 44,
     "name": "Sayon Keita",
     "pos": "C",
     "hgt_in": 84,
@@ -760,7 +763,7 @@
     "notes": ""
   },
   {
-    "rank": 43,
+    "rank": 40,
     "name": "Juke Harris",
     "pos": "SG",
     "hgt_in": 79,
@@ -778,7 +781,7 @@
     "notes": ""
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Jeremy Fears Jr.",
     "pos": "PG",
     "hgt_in": 73,
@@ -796,7 +799,7 @@
     "notes": ""
   },
   {
-    "rank": 45,
+    "rank": 43,
     "name": "Alex Condon",
     "pos": "C",
     "hgt_in": 84,
@@ -814,7 +817,7 @@
     "notes": ""
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "David Mirković",
     "pos": "PF",
     "hgt_in": 81,
@@ -835,7 +838,7 @@
     "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy 2026-11-15: Upgraded to Doubtful on Covers.com. Brad Underwood (Nov 12) confirmed Mirkovic is out of the boot, doing pool rehab and AlterG treadmill work, and shooting a basketball. No return date given but progress is positive. gamesRemaining revised 20→12. Sources: https://writingillini.com/david-mirkovic-injury-update-is-small-but-positive-for-illinois-basketball-to-get-him-back-on-the-court https://www.covers.com/sport/basketball/ncaab/injuries"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Stefan Vaaks",
     "pos": "SG",
     "hgt_in": 79,
@@ -853,7 +856,7 @@
     "notes": ""
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Shelton Henderson",
     "pos": "SF",
     "hgt_in": 78,
@@ -871,7 +874,7 @@
     "notes": ""
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "Rueben Chinyelu",
     "pos": "C",
     "hgt_in": 82,
@@ -889,7 +892,7 @@
     "notes": ""
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Miles Sadler",
     "pos": "PG",
     "hgt_in": 72,
@@ -907,7 +910,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5210795"
   },
   {
-    "rank": 52,
+    "rank": 46,
     "name": "Dash Daniels",
     "pos": "SG",
     "hgt_in": 78,
@@ -1015,7 +1018,7 @@
     "notes": ""
   },
   {
-    "rank": 60,
+    "rank": 61,
     "name": "Deron Rippey Jr.",
     "pos": "PG",
     "hgt_in": 75,
@@ -1033,7 +1036,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144476"
   },
   {
-    "rank": 61,
+    "rank": 62,
     "name": "Bryson Howard",
     "pos": "SG",
     "hgt_in": 76,
@@ -1051,7 +1054,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5287512"
   },
   {
-    "rank": 62,
+    "rank": 63,
     "name": "Nikolas Khamenia",
     "pos": "SF",
     "hgt_in": 80,
@@ -1072,7 +1075,7 @@
     "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play)."
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "Cameron Houindo",
     "pos": "PF",
     "hgt_in": 81,
@@ -1090,7 +1093,7 @@
     "notes": ""
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "JoJo Tugler",
     "pos": "PF",
     "hgt_in": 80,
@@ -1108,7 +1111,7 @@
     "notes": ""
   },
   {
-    "rank": 65,
+    "rank": 66,
     "name": "Massamba Diop",
     "pos": "C",
     "hgt_in": 85,
@@ -1126,7 +1129,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311903"
   },
   {
-    "rank": 66,
+    "rank": 67,
     "name": "Moustapha Thiam",
     "pos": "C",
     "hgt_in": 86,
@@ -1144,7 +1147,7 @@
     "notes": ""
   },
   {
-    "rank": 67,
+    "rank": 68,
     "name": "Andrej Stojakovic",
     "pos": "SG",
     "hgt_in": 79,
@@ -1162,7 +1165,7 @@
     "notes": ""
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Miles Byrd",
     "pos": "SG",
     "hgt_in": 78,
@@ -1180,7 +1183,7 @@
     "notes": ""
   },
   {
-    "rank": 69,
+    "rank": 70,
     "name": "Neoklis Avdalas",
     "pos": "SF",
     "hgt_in": 81,
@@ -1198,7 +1201,7 @@
     "notes": ""
   },
   {
-    "rank": 70,
+    "rank": 71,
     "name": "Daniel Jacobsen",
     "pos": "C",
     "hgt_in": 88,
@@ -1216,7 +1219,7 @@
     "notes": ""
   },
   {
-    "rank": 71,
+    "rank": 72,
     "name": "John Blackwell",
     "pos": "SG",
     "hgt_in": 77,
@@ -1234,7 +1237,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5103630"
   },
   {
-    "rank": 72,
+    "rank": 73,
     "name": "Johann Grünloh",
     "pos": "C",
     "hgt_in": 84,
@@ -1252,7 +1255,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5311844"
   },
   {
-    "rank": 73,
+    "rank": 74,
     "name": "Maximo Adams",
     "pos": "SF",
     "hgt_in": 79,
@@ -1270,7 +1273,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144522"
   },
   {
-    "rank": 74,
+    "rank": 75,
     "name": "Jacob Cofie",
     "pos": "PF",
     "hgt_in": 82,
@@ -1288,7 +1291,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/4873219"
   },
   {
-    "rank": 75,
+    "rank": 76,
     "name": "Paul McNeil Jr.",
     "pos": "SG",
     "hgt_in": 77,
@@ -1306,7 +1309,7 @@
     "notes": ""
   },
   {
-    "rank": 76,
+    "rank": 77,
     "name": "Zvonimir Ivisic",
     "pos": "C",
     "hgt_in": 86,
@@ -1324,7 +1327,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5174665"
   },
   {
-    "rank": 77,
+    "rank": 78,
     "name": "Jaxon Richardson",
     "pos": "SF",
     "hgt_in": 78,
@@ -1342,7 +1345,7 @@
     "notes": "Added 2026-11-04: in the top 60 of 2+ current boards (ESPN/No Ceilings/B/R/FanSided/CBS). Bio/headshot: https://www.espn.com/mens-college-basketball/player/_/id/5144554 Birth date not found; age estimated (2026 HS class)."
   },
   {
-    "rank": 78,
+    "rank": 60,
     "name": "Klark Riethauser",
     "pos": "SF",
     "hgt_in": 80,
@@ -1471,7 +1474,7 @@
     "notes": "2026-11-04 WITHDRAWN: UConn announced (Apr 20, 2026) wrist surgery and a medical redshirt for 2026-27; returns to UConn for 2027-28. Not on ESPN, No Ceilings, B/R or FanSided top 60s. https://www.nbcsports.com/mens-college-basketball/news/uconns-solo-ball-will-take-a-medical-redshirt-and-miss-next-season-after-undergoing-wrist-surgery"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Jordan Scott",
     "pos": "SF",
     "hgt_in": 80,
@@ -1484,12 +1487,9 @@
     "background": "transparent",
     "hometown": "Reston, VA",
     "born": "2007-02-06",
-    "injury": {
-      "type": "Shoulder Stinger",
-      "gamesRemaining": 1
-    },
+    "injury": null,
     "status": "active",
-    "notes": "2026-11-17: Added. 6-8 So. wing (ESPN id 5196931). B/R 2-round mock #28 (Nov 17), Ultimate Big Board consensus #59 (1 source, pick 36), FanSided top 60 ~#52 (Nov 4). Right shoulder stinger Nov 13 vs Northern Iowa, X-rays ordered, listed as a good bet to play Nov 17 at Tennessee. Sources: B/R, msuspartans.com roster, Yahoo/AP."
+    "notes": "2026-11-17: Added. 6-8 So. wing (ESPN id 5196931). B/R 2-round mock #28 (Nov 17), Ultimate Big Board consensus #59 (1 source, pick 36), FanSided top 60 ~#52 (Nov 4). Right shoulder stinger Nov 13 vs Northern Iowa, X-rays ordered, listed as a good bet to play Nov 17 at Tennessee. Sources: B/R, msuspartans.com roster, Yahoo/AP. 2026-11-18: Shoulder stinger cleared; Michigan State played at Tennessee on Nov 17 (the 1 game remaining has passed). No injury recurrence reported."
   },
   {
     "rank": 58,
