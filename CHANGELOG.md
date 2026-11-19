@@ -2,6 +2,15 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-19 — Daily update
+78 active prospects (83 entries, 5 withdrawn). One injury update: Tyran Stokes MRI confirmed bone bruise with no structural damage; he sat out Kansas vs WVU (Nov 18); day-to-day. No additions, withdrawals, or rank changes.
+
+### Injuries
+- **UPDATED: Tyran Stokes** (Kansas, SF, #1). MRI result confirmed: bone bruise, no structural damage (per Jeff Goodman, Nov 18). Stokes did not play vs West Virginia on Nov 18 (Kansas won 86-82; the 1-game placeholder elapsed). Day-to-day for next game. Injury type updated from "Lower Leg Injury" to "Bone Bruise"; gamesRemaining kept at 1 (day-to-day placeholder). Sources: [SI — avoids major injury](https://www.si.com/college/kansas/basketball/tyran-stokes-update-kansas-freshman-avoids-major-injury) (Dillon Davis, Nov 18); [ESPN — doesn't play vs WVU](https://www.espn.com/mens-college-basketball/story/_/id/50524441/kansas-says-tyran-stokes-game-call-vs-west-virginia); [RealGM Wiretap](https://basketball.realgm.com/wiretap/288179/Tyran-Stokes-Day-To-Day-With-Bone-Bruise); [Through the Phog](https://throughthephog.com/bill-self-tyran-stokes-injury-update-does-nothing-calm-worried-kansas-fans-updated) (Ericka Brockish, Nov 18).
+- Unchanged: McCoy (Torn ACL, 82g); Mirković (Broken Foot, 12g; not listed on Covers Nov 19 — may have been removed from injury report as he's out of boot, but no return date given so gamesRemaining unchanged); Khamenia (Foot Injury, 30g; Covers Nov 19 confirms still out, 6-8 wk timeline); Toppin (withdrawn, Torn ACL 38g).
+
+Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) — updated today (~6 hours ago, Nov 19); no new players, no rank changes meeting 5+ spot threshold confirmed vs prior version; [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) — Nov 16 snapshot, 13 sources, 109 prospects, no new additions identified; [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) — Nov 13, already reflected; [CBS Sports mock draft](https://www.cbssports.com/nba/draft/mock-draft/) — blocked/paywalled; [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) — blocked; [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) — blocked; [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 19) — Stokes bone bruise Questionable, McCoy torn ACL Out, Khamenia foot Out, Mirković not listed.
+
 ## 2026-11-18 — Daily update (second check)
 No changes. 78 active prospects (83 entries, 5 withdrawn).
 
