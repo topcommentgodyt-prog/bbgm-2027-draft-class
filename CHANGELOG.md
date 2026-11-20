@@ -2,6 +2,15 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-20 — Daily update
+78 active prospects (83 entries, 5 withdrawn). One injury cleared: Tyran Stokes played 31 minutes vs. Houston in the Players Era 8 championship game (Nov 19; Kansas lost 85-77) with 22 points and 11 rebounds, confirming full recovery from bone bruise. No additions, withdrawals, or rank changes.
+
+### Injuries
+- **CLEARED: Tyran Stokes** (Kansas, SF, #1). Played 31 min, 22 pts, 11 reb vs. Houston in the Players Era 8 championship (Nov 19; Kansas lost 85-77). Medical staff cleared him after bone bruise; Bill Self held him out of WVU (Nov 18) as a precaution. Returned and played a full game — injury cleared. Sources: [CBS Sports gametracker](https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20261119_HOU@KANSAS/) (Nov 19); [ESPN Louisville](https://www.espnlouisville.com/2026/11/19/kus-tyran-stokes-to-face-houston-after-1-game-absence/) (Nov 19); [SI report](https://www.si.com/college/kansas/basketball/report-kansas-star-tyran-stokes-to-play-vs-houston) (Nov 19).
+- Unchanged: McCoy (Torn ACL, 82g; out for season); Mirković (Broken Foot, 12g); Khamenia (Foot Injury, 30g); Toppin (withdrawn, Torn ACL 38g).
+
+Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) — blocked/inaccessible via automated fetch (same as prior runs); [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5, already reflected; [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) (Wasserman, Nov 17) — no new update found; [CBS Sports mock](https://www.cbssports.com/nba/draft/mock-draft/) (Finkelstein, Oct 17–19) — no update; [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Kline, Nov 4) — no update; [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) (Smith, Nov 13) — no V.3 found; [No Ceilings mock V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found; [CBS Sports gametracker](https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20261119_HOU@KANSAS/) — Stokes box score confirmed.
+
 ## 2026-11-19 — Daily update
 78 active prospects (83 entries, 5 withdrawn). One injury update: Tyran Stokes MRI confirmed bone bruise with no structural damage; he sat out Kansas vs WVU (Nov 18); day-to-day. No additions, withdrawals, or rank changes.
 
