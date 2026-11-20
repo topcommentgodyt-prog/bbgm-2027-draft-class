@@ -20,6 +20,14 @@ Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) — 
 
 Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) — updated today (~6 hours ago, Nov 19); no new players, no rank changes meeting 5+ spot threshold confirmed vs prior version; [Ultimate Big Board consensus](https://ultimatebigboard.com/nba/2027/) — Nov 16 snapshot, 13 sources, 109 prospects, no new additions identified; [NBADraft.net Extended Mock 2.1](https://www.nbadraft.net/2027-nba-extended-mock-draft-2-0/) — Nov 13, already reflected; [CBS Sports mock draft](https://www.cbssports.com/nba/draft/mock-draft/) — blocked/paywalled; [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) — blocked; [No Ceilings V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) — blocked; [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries) (Nov 19) — Stokes bone bruise Questionable, McCoy torn ACL Out, Khamenia foot Out, Mirković not listed.
 
+## 2026-11-20 — Daily update
+No changes. 78 active prospects (83 entries, 5 withdrawn).
+
+- Tyran Stokes (#1, Kansas) remains Bone Bruise, day-to-day (1 game); no newer status found ahead of the Players Era final. Sources: [Yahoo Sports](https://sports.yahoo.com/articles/bill-self-provides-tyran-stokes-injury-update-after-kansas-victory-115643208.html), [CBS Sports](https://www.cbssports.com/college-basketball/news/kansas-tyran-stokes-projected-no-1-nba-draft-pick-leg-injury-mri/).
+- No withdrawals, additions or consensus rank moves found.
+
+Sources checked: [Ultimate Big Board](https://ultimatebigboard.com/nba/2027/), [Tankathon](https://www.tankathon.com/big-board), [ESPN top 100](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects), [Last Word on Basketball mock 1.0](https://lastwordonsports.com/basketball/2026/11/20/2027-nba-mock-draft/), [NBA Draft Room](https://nbadraftroom.com/2027-nba-mock-draft/), [CBS mock](https://www.cbssports.com/nba/draft/mock-draft/), [SI](https://www.si.com/nba/draft/newsfeed/2027-nba-draft-prospect-david-mirkovic-undergoes-preseason-foot-surgery-01kz9rrhw9zc).
+
 ## 2026-11-18 — Daily update (second check)
 No changes. 78 active prospects (83 entries, 5 withdrawn).
 
