@@ -2,6 +2,10 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-21 — Daily update (second check)
+No changes. 78 active prospects (83 entries, 5 withdrawn). Three new mocks were published (LWOS Nov 20, FanSided Nov 20) or found for the first time (ClutchPoints Nov 9). Every player in their first rounds is already on the board. They don't agree on any rank moves: FanSided's Na'jai Hines at #14 and Arafan Diané at #15, and LWOS's Dame Sarr at #12 and Billy Richmond III at #13, each come from one outlet. No new injuries. Mirković is out of the boot and shooting, but Illinois has given no timetable and still lists him as out, so his 12 games stay.
+
+Sources checked: [Last Word On Basketball mock 1.0](https://lastwordonsports.com/basketball/2026/11/20/2027-nba-mock-draft/) (Benjamin Yu, Nov 20); [FanSided mock](https://fansided.com/nba/2027-nba-mock-draft-tyran-stokes-stakes-no-1-claim-warriors-grab-steph-replacement) (Christopher Kline, Nov 20); [ClutchPoints mock](https://clutchpoints.com/nba/nba-stories/2027-nba-mock-draft-1st-round-predictions-after-one-week-college-hoops) (Bailey Bassett, Nov 9); [Yahoo/B/R mock recap](https://sports.yahoo.com/articles/memphis-grizzlies-gamble-stefan-joksimovic-162644719.html) (Nov 20); [Telegraph — Mirković injury update](https://www.thetelegraph.com/sports/article/david-mirkovic-injury-update-appendix-foot-surgery-22529499.php); [Yahoo — Illinois vs Eastern Illinois preview/injury report](https://sports.yahoo.com/articles/illinois-vs-eastern-illinois-preview-181513454.html) (Mirković Out); [Yahoo — Stokes return](https://sports.yahoo.com/articles/tyran-stokes-return-telling-injury-200600590.html); [Covers NCAAB injuries](https://www.covers.com/sport/basketball/ncaab/injuries).
 ## 2026-11-21 — Daily update
 No changes. 78 active prospects (83 entries, 5 withdrawn).
 
