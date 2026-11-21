@@ -2,6 +2,16 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-21 — Daily update
+No changes. 78 active prospects (83 entries, 5 withdrawn).
+
+- **Tyran Stokes** (#1, Kansas): Fully cleared and confirmed healthy. Articles indicate he played in the Champions Classic vs. Kentucky following his cleared bone bruise (last updated Nov 20 after 31-min Houston performance). No injury concerns.
+- **David Mirković** (#47, Illinois): Broken Foot, gamesRemaining 12. Emergency appendectomy (Nov 1–2) further complicated his foot surgery recovery per multiple sources; a mid-October Roundtable article noted he returned to practice before the appendectomy — recovery complex but progressing per recent reports. gamesRemaining unchanged at 12.
+- **Nikolas Khamenia** (#63, UConn): Foot Injury, gamesRemaining 30 (6–8 wk timeline; surgery Nov 12). No new status update found.
+- **Brandon McCoy Jr.** (#12, Michigan): Torn ACL, gamesRemaining 82 (out for 2026-27 season). Unchanged.
+
+Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) — blocked/inaccessible via automated fetch (consistent with prior runs); [ESPN 2027 big board](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Jeremy Woo, Nov 5) — no update since Nov 5; [Bleacher Report 2-round mock](https://bleacherreport.com/articles/25534075-new-2027-nba-mock-draft-full-2-round-predictions-pro-comps) (Wasserman, Nov 17) — confirmed still the most recent BR mock via multiple Yahoo Sports team-specific articles ([Hawks/Arenas at #7](https://sports.yahoo.com/articles/atlanta-hawks-land-usc-guard-163601056.html), [Grizzlies/Joksimović](https://sports.yahoo.com/articles/memphis-grizzlies-gamble-stefan-joksimovic-162644719.html)) dated Nov 20–21 describing same mock; no new BR mock published — no qualifying rank changes (best candidate Davis Fogle appears at BR #8 but Nov 17 mock is pre-established board; blended change from #22→#17 is 5 spots but board is same pre-existing source); [CBS Sports mock draft](https://www.cbssports.com/nba/draft/mock-draft/) (Finkelstein, Oct 17–19) — no update; [FanSided big board](https://fansided.com/nba/2027-nba-draft-big-board-top-60-prospects-as-college-basketball-gets-underway) (Kline, Nov 4) — no update; [NBADraft.net mock](https://www.nbadraft.net/nba-mock-drafts/) — no V.3 found; [No Ceilings NBA V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11) — no V.3 found; [HoopsHQ injury watch](https://hoopshq.com/players/injury-watch-college-basketball) — Mirkovic appendectomy (Nov 1–2) noted, complicating foot timeline; [SI injury roundup](https://www.si.com/nba/draft/newsfeed/multiple-preseason-injuries-already-impacting-2027-nba-draft-class-01m1m9fd21jh) — no new 2027 draft injuries found; [Kansas/Stokes Champions Classic](https://bleacherreport.com/articles/25532228-kansas-tyran-stokes-talks-personal-kentucky-matchup-after-win-champions-classic) — Stokes healthy, playing normally.
+
 ## 2026-11-20 — Daily update
 78 active prospects (83 entries, 5 withdrawn). One injury cleared: Tyran Stokes played 31 minutes vs. Houston in the Players Era 8 championship game (Nov 19; Kansas lost 85-77) with 22 points and 11 rebounds, confirming full recovery from bone bruise. No additions, withdrawals, or rank changes.
 
