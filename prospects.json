@@ -1192,9 +1192,12 @@
     "background": "transparent",
     "hometown": "Greece",
     "born": "2006-02-04",
-    "injury": null,
+    "injury": {
+      "type": "Fractured Wrist",
+      "gamesRemaining": 25
+    },
     "status": "active",
-    "notes": ""
+    "notes": "2026-11-13: Left UNC vs Georgia game after falling on drive to basket; sustained fractured left wrist. Expected out \"close to two months\" per multiple reports (The Field of 68, Inside Carolina). Out through approximately mid-January 2027. Sources: https://clutchpoints.com/ncaa-basketball/north-carolina-basketball-news-tough-neo-avdalas-injury-update (Bhatnagar, Nov 17) https://www.si.com/college/unc/tar-heels-what-neo-avdalas-injury-means-moving-forward"
   },
   {
     "rank": 71,
