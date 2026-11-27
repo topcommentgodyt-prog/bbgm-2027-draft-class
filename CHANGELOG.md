@@ -2,6 +2,18 @@
 
 Newest first. Each daily check adds an entry, even when nothing changed.
 
+## 2026-11-27 — Daily update
+1 injury cleared (Jordan Smith Jr.). No rank changes (no new boards since Nov 23 Tankathon/CBS Sports/NBA Draft Room 2.0, all already incorporated in yesterday's re-rank). 79 active prospects (84 entries, 5 withdrawn). Solo Ball returned to play for UConn on Nov 26 but not reinstated — not yet appearing on any top-60 board.
+
+### Injuries
+- **CLEARED: Jordan Smith Jr.** (Arkansas, #6): Sprained Wrist (1 game placeholder) → healthy. Started and played the full Thanksgiving game Nov 26 vs No. 11 Michigan State; career-high 25 pts, 11 reb, 5 stl in an Arkansas win. Sources: [CBS Sports recap](https://www.cbssports.com/college-basketball/gametracker/), [ESPN recap](https://www.espn.com/college-basketball/).
+- Unchanged: Mirković (#20, Broken Foot, 4 games; non-live half-court practice, building conditioning); Avdalas (#58, Fractured Wrist, 25 games); Khamenia (#60, Foot Injury, 23 games); McCoy Jr. (#40, Torn ACL, 82 games, out for season); Toppin (withdrawn, Torn ACL, 38 games).
+
+### Notable — not a rank change
+- **Solo Ball (UConn, PG, withdrawn):** Recovered faster than expected from wrist surgery; did not take a medical redshirt under the new 5-for-5 rule. Debuted Nov 26 vs Duke: 7 pts off the bench, 2-of-9 FG, 1-of-6 from 3. Not reinstated — not yet appearing on any top-60 board (reinstatement rule: 2+ boards, top 60). Will monitor.
+
+Sources checked: [Tankathon big board](https://www.tankathon.com/big-board) (still updated ~Nov 23; no new version); [NBADraft.net](https://www.nbadraft.net/nba-mock-drafts/) (last board Nov 10); [No Ceilings NBA V.2](https://www.noceilingsnba.com/p/2027-nba-mock-draft-v2) (Nov 11, no V.3); [Bleacher Report](https://bleacherreport.com/) (last mock Nov 17, no update); [ESPN](https://www.espn.com/nba/story/_/id/50379717/2027-nba-draft-rankings-top-100-prospects) (Woo, Nov 5, no update); [covers.com](https://www.covers.com/college-basketball/injuries) (Moreno still Doubtful/Concussion, no update); Illinois injury report (Mirković in half-court practice).
+
 ## 2026-11-26 — Daily update (second check)
 1 added, full consensus re-rank (three boards published since the last re-rank), 2 injury updates, 1 headshot fix. 79 active prospects (84 entries, 5 withdrawn). No withdrawals. Builds on the first check below (Avdalas Fractured Wrist, 25 games, kept; he is now #58).
 

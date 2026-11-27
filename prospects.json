@@ -18,7 +18,7 @@
   },
   {
     "rank": 2,
-    "name": "Stefan Joksimović",
+    "name": "Stefan Joksimovi\u0107",
     "pos": "PG",
     "hgt_in": 79,
     "weight": 205,
@@ -102,12 +102,8 @@
     "background": "transparent",
     "hometown": "Washington, DC",
     "born": "2007-09-11",
-    "injury": {
-      "type": "Sprained Wrist",
-      "gamesRemaining": 1
-    },
     "status": "active",
-    "notes": "2026-11-26: wrist inflammation; missed Arkansas' Nov 21 game vs Mississippi Valley State, reported 'good to go' for the Nov 26 Thanksgiving game vs Michigan State (Rothstein/On3, WholeHogSports). Day-to-day, 1 game placeholder."
+    "notes": "2026-11-27: wrist injury cleared; started and played full Thanksgiving game Nov 26 vs No. 11 Michigan State, career-high 25 pts, 11 reb, 5 stl (Arkansas win). Previously: wrist inflammation, missed Nov 21 game vs Mississippi Valley State."
   },
   {
     "rank": 7,
@@ -345,7 +341,7 @@
   },
   {
     "rank": 20,
-    "name": "David Mirković",
+    "name": "David Mirkovi\u0107",
     "pos": "PF",
     "hgt_in": 81,
     "weight": 250,
@@ -362,7 +358,7 @@
       "gamesRemaining": 4
     },
     "status": "active",
-    "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy 2026-11-15: Upgraded to Doubtful on Covers.com. Brad Underwood (Nov 12) confirmed Mirkovic is out of the boot, doing pool rehab and AlterG treadmill work, and shooting a basketball. No return date given but progress is positive. gamesRemaining revised 20→12. Sources: https://writingillini.com/david-mirkovic-injury-update-is-small-but-positive-for-illinois-basketball-to-get-him-back-on-the-court https://www.covers.com/sport/basketball/ncaab/injuries 2026-11-24: SI article (Langendorf, published 2026-11-24T07:20:48Z): Underwood says positive appointment Nov 23 — Mirkovic pain-free from appendectomy, foot scan looked much improved, went full speed at shootaround in practice gear. Ramp-up phase: conditioning/weight room → practice with teammates → live action. Return not overnight but imminent. gamesRemaining updated 12→4. https://www.si.com/college/illinois/basketball/illinois-injury-update-ethan-brown-has-broken-nose-positive-david-mirkovic-news"
+    "notes": "2026-11-04: Recovering from Aug 2026 left-foot fracture surgery, then an appendectomy Nov 1; missed the Nov 2 opener, target return ~mid-December. https://www.si.com/college/illinois/basketball/illinois-basketball-david-mirkovic-undergoes-appendectomy 2026-11-15: Upgraded to Doubtful on Covers.com. Brad Underwood (Nov 12) confirmed Mirkovic is out of the boot, doing pool rehab and AlterG treadmill work, and shooting a basketball. No return date given but progress is positive. gamesRemaining revised 20\u219212. Sources: https://writingillini.com/david-mirkovic-injury-update-is-small-but-positive-for-illinois-basketball-to-get-him-back-on-the-court https://www.covers.com/sport/basketball/ncaab/injuries 2026-11-24: SI article (Langendorf, published 2026-11-24T07:20:48Z): Underwood says positive appointment Nov 23 \u2014 Mirkovic pain-free from appendectomy, foot scan looked much improved, went full speed at shootaround in practice gear. Ramp-up phase: conditioning/weight room \u2192 practice with teammates \u2192 live action. Return not overnight but imminent. gamesRemaining updated 12\u21924. https://www.si.com/college/illinois/basketball/illinois-injury-update-ethan-brown-has-broken-nose-positive-david-mirkovic-news"
   },
   {
     "rank": 21,
@@ -1092,7 +1088,7 @@
       "gamesRemaining": 23
     },
     "status": "active",
-    "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play). 2026-11-26: no new timeline; re-evaluation window (6-8 weeks from Nov 12 surgery) now ~4-6 weeks away, gamesRemaining 30→23 for elapsed time."
+    "notes": "2026-11-07 REINSTATED: back on ESPN top 60 (rank 50, Nov 5) and No Ceilings V.2 (rank 58, Nov 4). Consensus rank 57. Nov 9 2026: non-contact foot injury vs Wagner, in a walking boot pending MRI/X-ray; Hurley gave no timeline (ESPN, ClutchPoints). gamesRemaining is a placeholder estimate until diagnosis. Nov 13 second check: gamesRemaining set to 30 (6-8 weeks is only the re-evaluation date: 42-56 days, about 21-28 games, plus ramp-up; Hurley expects a return during Big East play). 2026-11-26: no new timeline; re-evaluation window (6-8 weeks from Nov 12 surgery) now ~4-6 weeks away, gamesRemaining 30\u219223 for elapsed time."
   },
   {
     "rank": 61,
@@ -1150,7 +1146,7 @@
   },
   {
     "rank": 64,
-    "name": "Johann Grünloh",
+    "name": "Johann Gr\u00fcnloh",
     "pos": "C",
     "hgt_in": 84,
     "weight": 250,
@@ -1160,7 +1156,7 @@
     "tags": "rimprot defender shooter",
     "image": "67-johann-grunloh.png",
     "background": "transparent",
-    "hometown": "Löningen, Germany",
+    "hometown": "L\u00f6ningen, Germany",
     "born": "2005-08-14",
     "injury": null,
     "status": "active",
@@ -1209,7 +1205,7 @@
     "hgt_in": 80,
     "weight": 200,
     "age_nov2026": 18.6,
-    "team": "Élan Chalon",
+    "team": "\u00c9lan Chalon",
     "international": true,
     "tags": "shooter passer",
     "image": "41-klark-riethauser.jpg",
@@ -1326,7 +1322,7 @@
     "born": "2005-08-10",
     "injury": null,
     "status": "active",
-    "notes": "2026-11-14: Added. BYU→Georgia transfer Jr. NBADraft.net #9 (Nov 13-14, verbatim), NBA Draft Room #58. 6-9 SF, Brownsburg HS / Overtime Elite. Sources: NBADraft.net 2.1, georgiadogs.com roster."
+    "notes": "2026-11-14: Added. BYU\u2192Georgia transfer Jr. NBADraft.net #9 (Nov 13-14, verbatim), NBA Draft Room #58. 6-9 SF, Brownsburg HS / Overtime Elite. Sources: NBADraft.net 2.1, georgiadogs.com roster."
   },
   {
     "rank": 74,
@@ -1348,7 +1344,7 @@
   },
   {
     "rank": 75,
-    "name": "Arafan Diané",
+    "name": "Arafan Dian\u00e9",
     "pos": "C",
     "hgt_in": 84,
     "weight": 280,
